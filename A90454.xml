@@ -1,0 +1,3216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aurora Ismenia and the prince: by Don Juan Perez de Montalvan. Oronta the Cyprian virgin: By Signr. Girolamo Preti. Translated by Thomas Stanley Esq;</title>
+            <title>Aurora, &amp; the prince.</title>
+            <author>Pérez de Montalván, Juan, 1602-1638.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 148 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90454</idno>
+            <idno type="STC">Wing P1468</idno>
+            <idno type="STC">Thomason E1422_3</idno>
+            <idno type="STC">ESTC R202332</idno>
+            <idno type="EEBO-CITATION">99862659</idno>
+            <idno type="PROQUEST">99862659</idno>
+            <idno type="VID">114828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90454)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114828)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 182:E1422[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aurora Ismenia and the prince: by Don Juan Perez de Montalvan. Oronta the Cyprian virgin: By Signr. Girolamo Preti. Translated by Thomas Stanley Esq;</title>
+                  <title>Aurora, &amp; the prince.</title>
+                  <author>Pérez de Montalván, Juan, 1602-1638.</author>
+                  <author>Preti, Girolamo, 1582-1626. Oronta.</author>
+                  <author>Stanley, Thomas, 1625-1678.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, with additions.</edition>
+               </editionStmt>
+               <extent>[8], 87, [3], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Wilson for Humphrey Moseley at the sign of the Princes Armes in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first English edition (Wing P1467) title reads: Aurora, &amp; the prince.</note>
+                  <note>Oronta has a separate divisional title page, and separate pagination; register is continuous.</note>
+                  <note>"As the Oronta was included in the Poems 1651 (pp. 181-194), sheet H was omitted in those copies of the present which were issued appended to the larger collection"--Pforzheimer catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114828:1" rendition="simple:additions"/>
+            <p>AURORA
+<hi>ISMENIA</hi>
+AND THE
+PRINCE:
+BY
+<hi>Don Juan Perez de Montalvan.</hi>
+            </p>
+            <p>ORONTA
+THE
+Cyprian Virgin:
+BY
+<hi>Sign<hi rend="sup">r.</hi> Girolamo Preti.</hi>
+            </p>
+            <p>
+               <hi>Tout vient a poinct qui peut attendre.</hi>
+            </p>
+            <p>Tranſlated by <hi>Thomas Stanley</hi> Eſq;
+The Second Edition, with Additions.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Wilſon</hi> for
+<hi>Humphrey Moſeley</hi> at the Sign of the Princes
+Armes in St. <hi>Pauls</hi> Church-yard. 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114828:2"/>
+            <pb facs="tcp:114828:2"/>
+            <head>The Reader</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay be pleas'd to take Notice,
+That what hee hath in his
+hand, was undertaken with
+no other Intention, then as
+an exercize of both Languages; That
+it now comes abroad in Obedience to
+private command, which could not be
+withſtood; That the Licentiouſneſſe
+of the French Tranſlation brings hi<g ref="char:EOLhyphen"/>ther
+no aſſiſtance: But if he finde the
+Names of Perſons or Places differ from
+the Originall, let him ſuppoſe it done
+for the better accommodation of the
+Scaene.</p>
+         </div>
+         <div type="encomia">
+            <div n="1" type="part">
+               <div type="encomium">
+                  <pb facs="tcp:114828:3"/>
+                  <head>Upon A<g ref="char:V">Ʋ</g>RORA.</head>
+                  <l>THis Tranſplantation of <hi>Sicylian</hi> Loves</l>
+                  <l>To the more pleaſing ſhades <hi>Albions</hi> Groves</l>
+                  <l>Though I admire, yet not the thing betrayes</l>
+                  <l>My ſoule to ſo much wonder as the waies</l>
+                  <l>And manner of effecting; that thy youth</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ntravail'd there, ſhould with ſuch happy truth</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nlock us this <hi>Iberian</hi> Cabinet,</l>
+                  <l>Whoſe Diamonds you in poliſht Engliſh ſet:</l>
+                  <l>Such as may teach the eyes of any Dame</l>
+                  <l>I'th' Britiſh Court to give and take a Flame.</l>
+                  <l>But here the greateſt Miracle we ſee,</l>
+                  <l>That <hi>Spain</hi> for this hath travell'd unto thee.</l>
+                  <closer>
+                     <signed>W. H.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:114828:3"/>
+                  <l>LAnguage and Wit, which equally diſpoſe</l>
+                  <l>Both light and life to Poetry and Proſe,</l>
+                  <l>In this traduction as their Orbe doe ſhine,</l>
+                  <l>And make theſe Stories, like thy ſelfe, Divine.</l>
+                  <l>
+                     <hi>Aurora</hi> brighter then ſhe was of late.</l>
+                  <l>
+                     <hi>The Prince</hi> in his misfortunes fortunate.</l>
+                  <l>
+                     <hi>Montalvan</hi> proud to ſee himſelfe out-done,</l>
+                  <l>By a Reflection clearer then his Sun.</l>
+                  <closer>
+                     <signed>W. F.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:114828:4"/>
+                  <l>TRanſlations that ſhould give light,</l>
+                  <l>Eclipſe their Authors from our ſight;</l>
+                  <l>But here like Chriſtalls doe convey</l>
+                  <l>The luſtre of a forraigne day:</l>
+                  <l>Which the inlightned world might ſee,</l>
+                  <l>Is owing to thy Charity,</l>
+                  <l>Who reinſpir'ſt <hi>Aurora's</hi> cheek</l>
+                  <l>With ſuch freſh Roſes, that we ſeek</l>
+                  <l>Truth in th'originall, which <hi>Spaine</hi>
+                  </l>
+                  <l>To owne muſt borrow back againe.</l>
+                  <closer>
+                     <signed>J. H.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <div type="encomium">
+                  <pb facs="tcp:114828:4"/>
+                  <head>Upon ORONTA.</head>
+                  <l>FLames reſcu'd faire <hi>Oronta</hi> from the power</l>
+                  <l>Of an inſulting <hi>Thracian</hi> Conquerour.</l>
+                  <l>The Fame of which brave action <hi>Preti's</hi> Rhime,</l>
+                  <l>Freed from the greater tyranny of Time:</l>
+                  <l>Yet in that freedom ſhe leſſe glories, then</l>
+                  <l>In being thus made Captive by thy Pen.</l>
+                  <closer>
+                     <signed>E. S.</signed>
+                  </closer>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:114828:5"/>
+                  <l>FArre brighter now in thy Poetick fire</l>
+                  <l>
+                     <hi>Oronta</hi> ſeemes then in her fatall Pyre;</l>
+                  <l>For there, her beauty loſt, her vertue ſhines;</l>
+                  <l>But thy admir'd expreſſion both combines;</l>
+                  <l>And <hi>Cyprus,</hi> whoſe beſt glories here are ſeen,</l>
+                  <l>Is prouder of her Virgin then her Queen.</l>
+                  <closer>
+                     <signed>W. F.</signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:114828:5"/>
+            <head>Aurora.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>Ionyſius</hi> the Sicilian Tyrant had a daugh<g ref="char:EOLhyphen"/>ter,
+for her Celeſtill beauty named <hi>Au<g ref="char:EOLhyphen"/>rora,</hi>
+not more faire then unfortunate; &amp;
+ſcarſe had ſhe compleated the laſt yeares
+of her Infancie, when Heaven was plea<g ref="char:EOLhyphen"/>ſed
+to let her know that ſhe was beautifull by eclipſing
+her fortune. For Nature, as if ſhe eſteem'd beauty a
+crime, &amp; not her owne image, doth for the moſt part
+puniſh it: The Mother of <hi>Aurora</hi> dyed; and <hi>Dionyſius,</hi>
+although the loſſe of his wife gave him no reall reſent<g ref="char:EOLhyphen"/>ment,
+expreſt in feign'd teares how extremely he lov'd
+her; but within a few days diſcover'd the hypocriſie of
+his griefe, receiving in her place <hi>Arminda,</hi> an Italian
+Lady of quality, but not worthy of that Crowne, be<g ref="char:EOLhyphen"/>cauſe
+he had many yeares before kept her as a Miſtris.
+She was of a lively ſpirit, witty and faire; but of a
+diſpoſition ſo harſh, that ſhe gain'd little upon the af<g ref="char:EOLhyphen"/>fections
+of the people, bearing ſuch command over
+her husbands actions, that ſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> permitted not any thing
+to paſs in the Kingd<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, without firſt conſulting her
+pleaſure; a care proper to ſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of ſmall worth, as
+make oſtentation of the power they enjoy, that by
+this meanes they may diſſemble their low beginnings;
+<pb n="2" facs="tcp:114828:6"/>
+but the ſuceſſe proves contrary, in regard the injur'd
+by murmur and complaints diſcover more then was
+imagin'd. <hi>Aurora,</hi> conſidering that to permit ſuch ex<g ref="char:EOLhyphen"/>ceſſe
+were to lend wings to her pride, advis'd her not
+to rely with ſo much confidence on her fathers affe<g ref="char:EOLhyphen"/>ction,
+ſince it was not impoſſible that it might faile, &amp;
+then would ſhe fall lower for not having treaſured the
+good will of his ſubjects: adding moreover that ſhee
+ſhould remember what ſhee was formerly, that ſhee
+might not vainly be tranſported with her new eſtate.
+Theſe words ſo incens'd <hi>Arminda,</hi> that from thence<g ref="char:EOLhyphen"/>forward
+ſhe plotted <hi>Aurora's</hi> death; and to effect her
+deſire made <hi>Dionyſius</hi> beleeve that ſhee was jealous,
+telling him hee lov'd his daughter ſo paſſionately,
+for being the picture of the dead Originall; ſince
+as the Phoenix leaves her aſhes to perpetuate her ſuc<g ref="char:EOLhyphen"/>ceſſion,
+ſo affection uſeth to leave ſome living pledges
+to preſerve its memory: and certainely, the neglect he
+ſometimes expreſt towards her, was occaſion'd by
+that dead love pictur'd in the beauty of <hi>Aurora. Ar<g ref="char:EOLhyphen"/>minda</hi>
+urg'd this ſo earneſtly, that <hi>Dyoniſius</hi> making
+impiety a Complement, reſign'd his daughters fault
+into her hands, allowing her in this cauſe to be both
+Judge &amp; Party. Love the common excuſe of all extra<g ref="char:EOLhyphen"/>vagace
+did not here acquit <hi>Dioniſius;</hi> for a man is not
+oblig'd to diſpiſe the pledges of his blood for a wo<g ref="char:EOLhyphen"/>man
+that diſſembles when ſhe weepes, and weepes
+when ſhe pleaſes. <hi>Arminda</hi> was ſatisfied, ſo that <hi>Au<g ref="char:EOLhyphen"/>rora</hi>
+were in ſome remote place out of her ſight;
+whereupon her Father commanded her to depart out
+of <hi>Sicily,</hi> chuſing rather to live without a daughter,
+then diſpleaſe a wife; ſuch was the affection of a
+<pb n="3" facs="tcp:114828:6"/>
+blinded Lover, the raſhneſſe of an unnaturall Father.
+They conveig'd the faire Princeſſe to a little Iſland,
+ſeated betwivt (the two Promontories) <hi>Pelorus</hi> and
+<hi>Pachynum</hi> which ſeem'd as a Garland of Flowers in
+the Tyrrhen Sea; it was done privately to avoid the
+mutiny of the people, who lov'd her for her beauty
+and her vertue: Hee order'd a ſelect number of ſer<g ref="char:EOLhyphen"/>vants
+for her attendants, with forfiture of life to
+any who ſhould diſcover that <hi>Aurora</hi> reſided in that
+narrow Pallace. The diſcreet Lady did with much
+wiſedome beare her Fathers unkindneſſe, diverting
+her minde now with the muſick of the little wanton
+Birds, which hearing her name thought it ever mor<g ref="char:EOLhyphen"/>ning,
+and ſung continually: Now with the pleaſant
+wind which ſporting upon the ſmoothneſſe of the
+Chriſtall ſea did amorouſly diſquiet it: now with
+reflecting on her owne misfortunes, for the unhappy
+are often recreated with the ſame thing that afflicts
+them: Now with the Ladies that attended her, eſpe<g ref="char:EOLhyphen"/>cially
+with <hi>Celia,</hi> who being of the ſame age and
+kindred well deſerv'd her privacie; but when all
+fail'd, and nothing could delight her, ſhe took an In<g ref="char:EOLhyphen"/>ſtrument
+which in her hands might boaſt it was not
+dumbe; and weeping ſung thus:</p>
+            <q>
+               <lg>
+                  <l>When will arrive the Day,</l>
+                  <l>Which muſt my life and ſorrowes terminate,</l>
+                  <l>That angry fortune may</l>
+                  <l>(The tyrant goddeſſe of all humane ſtate</l>
+                  <l>Her crueltie fulfilling)</l>
+                  <l>By one kinde death thus make an end of killing.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:114828:7"/>
+                  <l>When ſhall my troubled yeares</l>
+                  <l>Be to a verdant grave of flowers reſtor'd?</l>
+                  <l>My injuries, my feares,</l>
+                  <l>Too little merited, too much deplor'd?</l>
+                  <l>When ſhall my juſt complaint</l>
+                  <l>From equall heaven receive a full reſtraint?</l>
+               </lg>
+               <lg>
+                  <l>Now I am throwne thus low,</l>
+                  <l>What more can be deſir'd by cruell Fate;</l>
+                  <l>No hope my ſad thoughts know,</l>
+                  <l>Of reinjoying their paſt happy ſtate:</l>
+                  <l>Oh my afflicted minde!</l>
+                  <l>Death would'ſt thou come, a welcome thou ſhalt finde.</l>
+               </lg>
+               <lg>
+                  <l>With patience forlorne,</l>
+                  <l>I paſse the Moneths, the yeares in ſolitude,</l>
+                  <l>The Evening and the Morn:</l>
+                  <l>In vaine my hopes thus ſtriving to delude,</l>
+                  <l>My teares I conſtant keep,</l>
+                  <l>And as I am <hi>Aurora,</hi> daily weep.</l>
+               </lg>
+               <lg>
+                  <l>When the Rebellious Sea,</l>
+                  <l>Armed with Snow, ſtrives to ſubdue this Rock,</l>
+                  <l>It ſeemes my miſerie,</l>
+                  <l>At once kindly to warne, and rudely mock:</l>
+                  <l>For ſo the Deſtinies</l>
+                  <l>My life each minute offer to ſurprize.</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:114828:7"/>
+                  <l>Soon as the morne appeares,</l>
+                  <l>And uſhers in with dubious light the day,</l>
+                  <l>My reall ſorrow weares</l>
+                  <l>So true a ſhade of death, that I betray</l>
+                  <l>My reaſon to that dreame,</l>
+                  <l>And (though awake) dead to my ſelfe do ſeem,</l>
+               </lg>
+               <lg>
+                  <l>All things within my view,</l>
+                  <l>All things that grow and thrive by Natures care,</l>
+                  <l>My ſorrowes doe renew:</l>
+                  <l>For by ſucceſſive change they better'd are,</l>
+                  <l>But to me fortune ſtill</l>
+                  <l>Is therefore conſtant, 'cauſe ſhe firſt was ill.</l>
+               </lg>
+               <lg>
+                  <l>This Tree from January</l>
+                  <l>No livery but the hoarie Froſt receives,</l>
+                  <l>Yet May its dreſſe doth vary,</l>
+                  <l>Proudly adorning it with painted leaves:</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>nto the fruitfull plaine,</l>
+                  <l>What Auguſt ſtole, April reſtores againe.</l>
+               </lg>
+               <lg>
+                  <l>This Sea ſomtimes enrag'd,</l>
+                  <l>Swells up in Chriſtall mountaines to the skies,</l>
+                  <l>Yet often is aſwag'd:</l>
+                  <l>But onely I in conſtant miſeries,</l>
+                  <l>Confin'd to endleſſe griefe,</l>
+                  <l>Expect no liberty, nor hope reliefe.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>Aurora</hi> clos'd this ſweet Muſick with ſo ma<g ref="char:EOLhyphen"/>ny
+Sighes and Teares, that hee muſt have had a
+<pb n="6" facs="tcp:114828:8"/>
+ſoule truely inſenſible, that could heare her without
+Compaſſion. One evening as ſhee entertain'd her
+ſelfe with the preſent proſpect of the ſea, ſhee ſaw
+a man ſtrugling with the waters, and breaking the
+waves, though hee relyed more on the mercy of a
+Planke, then the ſtrength of his armes, endeavouring
+to recollect his fainting Spirit, till he might approach
+the ſhore for preſervation of his life. <hi>Aurora</hi> mov'd
+with a noble pitty, and tender feare to have him die
+before her eyes, commanded thoſe few that attended
+her, to relieve him: who putting to ſea in a little
+Skiffe, took him up and treated him moſt carefully;
+(for ſo <hi>Aurora</hi> had commanded them) beſides the
+perſon and civilty of <hi>Pauſanias</hi> (for that was his
+name) mov'd them to reſpect and affection. Be<g ref="char:EOLhyphen"/>ing
+recover'd from his rough uſage, (which had
+caus'd him to vomit much water) he ſhar'd amongſt
+them ſome Jewells, which hee had preſerv'd from
+the ſea in his late danger; telling them that he was
+nobly deſcended, and that untill he ſaw his fortune
+amended, it was neceſſarie for him to live conceal'd;
+and therefore deſir'd the company to accept of his
+ſervice, for that poſſibly hereafter it might not repent
+them of that favovr. His gold and perſon had pur<g ref="char:EOLhyphen"/>chas'd
+the affection of thoſe that heard him: they re<g ref="char:EOLhyphen"/>turn'd
+thanks for the complement, promiſing to ſerve
+him to the utmoſt of their power. <hi>Pauſanias</hi> was
+glad, conceiving hee might ſecurely continue there,
+without being known; for that Iſland was little ac<g ref="char:EOLhyphen"/>quainted
+with other, then the watchfull Guardians
+of that beauty, which ſo unjuſtly ſuffer'd<g ref="char:punc">▪</g> Going forth
+one night when the bright <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with her beames
+<pb n="7" facs="tcp:114828:8"/>
+enlightned the Wood, hee heard a voyce that with a
+chearefull ſweetneſſe thus related its griefe to the
+Birds and Waters:</p>
+            <q>
+               <lg>
+                  <l>From th'early Dawne untill the Sun retire,</l>
+                  <l>I to theſe woods and hills my griefe exſpire;</l>
+                  <l>My eyes with boundleſſe Rivers over-flow,</l>
+                  <l>Like troubled Fountaines murmuring at my woe:</l>
+                  <l>Perpetuall miſeries I ſtill deplore,</l>
+                  <l>As they are mine: but as immortall more.</l>
+                  <l>What is't by nature beauties wealth to owne,</l>
+                  <l>If to theſe woods confin'd I live alone:</l>
+                  <l>Or that my eyes have power to kill with love;</l>
+                  <l>If neere me none but birds and beaſts doe move?</l>
+                  <l>Too cruell heav'n that know'ſt my innocence,</l>
+                  <l>Or with my ſorrowes, or my life diſpence.</l>
+                  <l>Thou to torment me doſt forbid me die,</l>
+                  <l>For death is pleaſing unto miſery:</l>
+                  <l>Let thoſe that happy are enjoy their breath,</l>
+                  <l>The wretched never live but in their death.</l>
+                  <l>To each dull houre that ſlides through lazy day,</l>
+                  <l>My griefes or memory of griefes I pay.</l>
+                  <l>Thus live I, only pleas'd with this reliefe,</l>
+                  <l>Death is the lateſt remedy of griefe.</l>
+                  <l>For patience failes where th'injur'd ſoule ſuſtaines</l>
+                  <l>The rigour of unintermitted paines.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>Pauſanius</hi> was aſtoniſht as well at the ſweetneſſe
+of the voice, as to heare it in ſo ſtrange a place, won<g ref="char:EOLhyphen"/>dring
+who it could be, whoſe ſoul ſo feelingly deplo<g ref="char:EOLhyphen"/>red
+its owne misfortunes: and as well that he might
+not be ungratefull for the favour he recived, (though
+<pb n="8" facs="tcp:114828:9"/>
+he were ignorant from whom) as to try, if by this
+meanes he might come to know the divine owner of
+ſo ſweet a harmony, to the ſuſpence of the liſtning
+Nightingales he ſung this ſong.</p>
+            <q>
+               <lg>
+                  <l>Torment of abſence and delay,</l>
+                  <l>That thus afflicts my memory,</l>
+                  <l>Why do'ſt thou kill me every day,</l>
+                  <l>Yet will not give me leave to dye?</l>
+               </lg>
+               <lg>
+                  <l>Why doſt thou ſuffer me to live?</l>
+                  <l>All hope of life in life denying?</l>
+                  <l>Or to my patience tortures give,</l>
+                  <l>Never to dye, yet ever dying?</l>
+               </lg>
+               <lg>
+                  <l>To faire <hi>Narciſſa</hi>'s brighter eyes,</l>
+                  <l>I was by loves inſtruction guided,</l>
+                  <l>A happineſſe, I long did prize,</l>
+                  <l>But now am from their light divided<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Favours and gifts my ſute obtain'd,</l>
+                  <l>But envious Fate would now deſtroy them;</l>
+                  <l>Which if to loſe I only gain'd,</l>
+                  <l>What greater paine then to enjoy them?</l>
+               </lg>
+            </q>
+            <p>The ſame wonder which before ſeiz'd <hi>Pauſanias,</hi>
+ſurpriz'd <hi>Aurora,</hi> knowing none of her ſervants were
+of ſuch extraordinary parts, or could ſo ſweetly com<g ref="char:EOLhyphen"/>plaine
+of the inſupportable torment of abſence. <hi>Au<g ref="char:EOLhyphen"/>rora</hi>
+inquiſitive to know, and incited by the curioſity
+that is incident to women, was deſirous to ſee the
+<hi>Orpheus</hi> of thoſe Rocks: but the ſhadow of the
+<pb n="9" facs="tcp:114828:9"/>
+trees, the diſtance of place, and above all, the
+regard of her quality which detained her, repreſt
+this deſire, ſo that ſhe deferr'd it till ſome other time;
+and calling one of her attendants, demanded of him,
+if there dwelt any in that wood, beſides thoſe that
+came with her out of <hi>Sicily.</hi> The ſervant anſwered,
+ſhe forgot him, whom not long ſince ſhe commanded
+them to ſuccour, ſeeing him in danger of his life.
+<hi>Aurora</hi> asked if he knew who he were? Hee replyed,
+he knew no more then th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he had ſaid he was call'd
+<hi>Pauſanias,</hi> concealing his quality and country, yet
+could aſſure her, that he ſeem'd to be of noble Paren<g ref="char:EOLhyphen"/>tage,
+or at leaſt his perſon and ſpirit deſerv'd to bee
+ſo. <hi>Aurora</hi> would not enquire further, leſt her curio<g ref="char:EOLhyphen"/>ſity
+might breed ſome ſuſpition; and although it be
+true, that none can love what he never ſaw, or con<g ref="char:EOLhyphen"/>vers'd
+with; yet Fame, Vertue, and Deſert incite a
+deſire to ſee whether that ſatisfie the eye, which had
+by the eare affected the ſoule. Wee will not ſay
+<hi>Aurora</hi> was in love, though her ſolitude might re<g ref="char:EOLhyphen"/>quire
+it, her greatneſſe would not conſent to it: Yet
+ſhe had a deſire to know the man ſo well qualifi'd.</p>
+            <p>
+               <hi>Pauſanias</hi> ſoone ſeconded this deſire, for not en<g ref="char:EOLhyphen"/>quiring
+the myſtery incloſed in the Palace, he con<g ref="char:EOLhyphen"/>tinued
+to frequent the place where he firſt heard her:
+and <hi>Aurora</hi> had the opportunity many evenings of
+ſeeing him paſſe by with ſuch a grace as might endan<g ref="char:EOLhyphen"/>ger
+the liberty of one leſſe reſtrained then ſhe was:
+for the afflictions of love are not for thoſe that have
+other misfortunes to reſent. <hi>Pauſanias</hi> could not be<g ref="char:EOLhyphen"/>hold
+the faire <hi>Aurora,</hi> the windowes and lattices de<g ref="char:EOLhyphen"/>bar'd
+him her ſight, neither would he diſcover himſelf
+<pb n="10" facs="tcp:114828:10"/>
+to thoſe hee convers'd with; ſuppoſing, that ſince
+they kept their buſineſſe ſo private, the ſecreſie much
+concern'd them, and therefore he conceal'd what hee
+deſir'd: For it is a rule of diſcretion to know no more
+of any man then he is willing to communicate. Ne<g ref="char:EOLhyphen"/>vertheleſſe,
+deſiſted not to proſecute his intentions,
+hoping he might finde opportunity to ſee that ſweet
+Syren. The morning often found him under her win<g ref="char:EOLhyphen"/>dow,
+not knowing whom he courted, loving in igno<g ref="char:EOLhyphen"/>rance;
+yet confident more then a private Lady was
+within thoſe Walls. Before the Pallace he us'd ſeve<g ref="char:EOLhyphen"/>rall
+paſtimes and recreations, that hee might thereby
+obtaine a ſight of the Goddeſſe whoſe voice had en<g ref="char:EOLhyphen"/>chanted
+his ſoule.</p>
+            <p>
+               <hi>Pauſanias</hi> had good ſucceſſe in all things, having bin
+brought up in the exerciſe of arms, he hunted the wild
+Beaſts of that wood ſo fortunately, that he made their
+deaths acknowledge him Maſter of their ſtrength and
+furie. There was not any in the Pallace but applauded
+his gallantrie; only <hi>Aurora</hi> was perplext at his perfe<g ref="char:EOLhyphen"/>ctions;
+for every day he encreas'd her affection by new
+deſerts. And although ſhe lik'd all ſhe ſaw in him, yet
+the inequality ſhee conceiv'd was betwixt them diſ<g ref="char:EOLhyphen"/>pleas'd
+her diſcretion, thoſe that diſparage themſelves
+being unexcuſable. Hereupon ſhe adviſed, whether
+it were not expedient to have him kill'd; for when a
+meane perſon may occaſion extraordinary miſchiefe,
+his death is eſteemed mercy: but ſhee could not at<g ref="char:EOLhyphen"/>tempt
+it in earneſt: For, to take away the life of thoſe
+we love, becauſe we love them, is no good reaſon in
+the ſtate of affection; ſhee would have him depart
+the Iſland, but immediately ſhe repented: For it is
+<pb n="11" facs="tcp:114828:10"/>
+hard to put that out of ſight which is imprinted in the
+minde: In effect, ſeeing that to kill him were cruel<g ref="char:EOLhyphen"/>ty
+to <hi>Pauſanias,</hi> to baniſh him tyranny to her ſelfe, ſhe
+reſolv'd to divert her ſadneſſe, paſſing her ſolitary
+houres with more delight; and that he might never
+know that it was ſhe that lov'd him, ſhe exchanged
+names with <hi>Celia,</hi> to whom ſhe imparted the Plot,
+that ſhe might aſſiſt her in purſuit of it, and with her
+name diſſembling her quality, ſhee reſolv'd to give
+entertainment to this new affection, untill ſhe might
+know who he was that had wone ſo much upon her
+heart.</p>
+            <p>
+               <hi>Aurora</hi> might ſafely have admitted to her great<g ref="char:EOLhyphen"/>neſſe
+the affection of <hi>Pauſanias,</hi> for he was ſole heire,
+to the King of <hi>Macedonia;</hi> and being enamoured of
+the fame of <hi>Aurora's</hi> beauty, which verſes and
+pencills had extoll'd, whilſt other Princes by Ambaſ<g ref="char:EOLhyphen"/>ſadors
+ſolicited her marriage, reſolv'd that his fortune
+ſhould rely upon his owne diligence, and by going to
+<hi>Sicily</hi> to be both the Agent and the Lover: This de<g ref="char:EOLhyphen"/>ſire
+made him put to ſea, and forſake his owne Coun<g ref="char:EOLhyphen"/>trey;
+ſuch is the power of a noble reſolution, ſo did
+the imagined beauty diſquiet the Princes minde, and
+attract his will and freedome, that he expos'd his life
+to the perrill of the waves, and his greatneſſe to a
+meane lodging of Planks and Canvas, to ſee if truth
+were correſpondent to ſame. But he was leſſe fortu<g ref="char:EOLhyphen"/>nate
+then adventrous; for one evening the Sea being
+angry, or weary to ſuſtain the weight of ſo high a Ma<g ref="char:EOLhyphen"/>jeſty
+in ſo little room begun to rage furiouſly, ſo that
+the valiant Princes life was in danger; the heavens
+were darkned, and the Aire ſo turbulent, that the
+<pb n="12" facs="tcp:114828:11"/>
+company expected every minute, ſhould end their
+lives, and without thought of ſaving themſelves
+made him leap into the foaming Sea, fearing ſome
+worſe event; and by embracing a plancke, to uſe the
+moſt difficult meanes for his owne ſafety: Thus paſs'd
+he two dayes befriended by the weather, at length ar<g ref="char:EOLhyphen"/>rived
+ſo neare the Iſland, that <hi>Aurora</hi> could relieve,
+and after love him ſo extremely as we ſee.</p>
+            <p>She reſolved at laſt to ſpeake with him, but un<g ref="char:EOLhyphen"/>der
+the feigned name of <hi>Celia,</hi> which defire was en<g ref="char:EOLhyphen"/>creaſed
+by <hi>Pauſanias;</hi> for one night he amorouſly
+ſung theſe Verſes upon the curioſity of his love.</p>
+            <q>
+               <lg>
+                  <l>What wouldſt thou have unquiet breaſt?</l>
+                  <l>What is it thus diſturbs thy reſt?</l>
+                  <l>Say not thou lov'ſt, it cannot be,</l>
+                  <l>Who never didſt deſerve or ſee.</l>
+                  <l>Love, where the mind out-ſtrips the eye,</l>
+                  <l>Is onely Curioſitie.</l>
+               </lg>
+               <lg>
+                  <l>But thou wilt ſay, why doſt purſue</l>
+                  <l>Thine owne diſquiet then? 'tis true;</l>
+                  <l>And though this onely care expreſſe</l>
+                  <l>Of an imagin'd happineſſe,</l>
+                  <l>Deſire to ſee doth ever prove</l>
+                  <l>A ſure preparative to love.</l>
+               </lg>
+               <lg>
+                  <l>An object ſo divine I frame</l>
+                  <l>Within my breaſt, as doth inflame</l>
+                  <l>My captiv'd mind: I love, ſubdue,</l>
+                  <l>Deſire, oblige, hope, and purſue,</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:114828:11"/>
+                  <l>Reſigne my liberty, beſtow</l>
+                  <l>My ſoule on one I do not know.</l>
+                  <l>And thus can Maſter be of none,</l>
+                  <l>For I no longer am mine owne.</l>
+               </lg>
+            </q>
+            <p>As ſoone as <hi>Pauſanias</hi> had made an end, <hi>Aurora</hi>
+call'd to him and ſaid, (though with ſome difficulty,
+by reaſon that the Balcon's were very high) that he
+might leave his curioſity, and profeſſe love: For his
+addreſſes were not unacceptable. <hi>Pauſanias</hi> remain'd
+contented with this favour, ſince although hee had
+never ſeene the beſtower, yet at leaſt his affections
+were not ſo ill plac'd as he before imagin'd; and ſee<g ref="char:EOLhyphen"/>ing
+it vvas not poſſible to ſpeak to her, he determin'd
+to vvrite, transferring his thoughts to the Penne,
+vvhich uſeth to bee the diſcreeteſt tongue, expreſſing
+more then is felt. The Letter vvas ſhort (though
+the ſubject did not require it) to leave her vvith the
+deſire of receiving another: and thus it ſaid:</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Madam,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> May juſtly ſay you are obliged to fa<g ref="char:EOLhyphen"/>vor
+me, having coſt mee infinite cares,
+without any recompence, although ever
+ſince the laſt night I have preſum'd to
+be more fortunate, and ſo am reſolv'd to
+dye rather importunate then baſhfull: for
+my birth is noble, and will not ſuffer mee
+<pb n="14" facs="tcp:114828:12"/>
+to flie from any attempt. That which I
+now deſire, is to ſee you, if perhaps my
+love have merited it; and ſince heaven
+ſuffers it ſelfe to bee lov'd, and you ap<g ref="char:EOLhyphen"/>peare
+ſuch, bee like it in condition as in
+beautie: for if your beames inflame mee,
+it is but juſtice I ſhould know the ſphere
+from whence they come.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Pauſanias</hi> repaired thither as hee uſed to doe, and
+having firſt courted her with a Song, which hee had
+compoſed that day, as well ſung as penn'd, he ſhew'd
+her the Paper, ſaying it was a piece excellent for
+Muſick, and that he ſhould be extreame glad to heare
+it ſet to the Gittrah. <hi>Aurora</hi> underſtood him, and
+was pleas'd with the deceit, becauſe that which
+otherwiſe would have appear'd lightneſſe, now paſt
+for civility, (for there are ſome ſo diſcreet in what
+they demand that by encouraging the crime, they
+ſeem to excuſe the fault) and throwing downe a
+ſtring of Pearle, <hi>Pauſanias</hi> return'd it more weigh<g ref="char:EOLhyphen"/>ty
+then before: <hi>Aurora</hi> read the Paper, and in part to
+ſatisfie his expreſſions, deſiring him to expect a while,
+commanded <hi>Celia</hi> to write, not that ſhee could not
+her ſelf, (for ſhe was extreamely accompliſh'd in every
+thing) but for the danger might enſue, if her hand
+were knowne; and betwixt them both they fram'd
+this Anſwer:</p>
+            <floatingText type="letter">
+               <body>
+                  <p>
+                     <pb n="15" facs="tcp:114828:12"/>
+THat you may not when you returne
+home to your Countrey accuſe the <hi>Si<g ref="char:EOLhyphen"/>cilian</hi>
+Ladies of ingratitude; ſince your
+deſire is ſo reaſonable, as the ſight of a wo<g ref="char:EOLhyphen"/>man,
+I will performe what you require me;
+though then your eyes will contradict your
+fancie; for it is certaine, that I am fairer in
+your opinion now, then I ſhall bee after<g ref="char:EOLhyphen"/>ward:
+I am call'd <hi>Celia,</hi> and attend a
+Lady of quality that lives in this Caſtle:
+She and I will be to morrow in this place,
+ſo that you may then ſee me; bee of good
+courage, and thanke me for being ſo ſoone
+quit of your love, if that can be love, which
+hath paſt no further then imagination: I
+only entreate you to keepe this indiſcretion
+ſecret, and to tell me your name, eſtate, and
+quality, for it imports us both.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Pauſanias</hi> kiſt the Paper, and read it often: for a
+Lover is never ſatisfied at the firſt, &amp; the day follow<g ref="char:EOLhyphen"/>ing
+went to ſee what hee ſo much deſir'd. <hi>Aurora</hi>
+had commanded her ſervants to retire to another
+<pb n="16" facs="tcp:114828:13"/>
+quarter of the houſe, and being alone with <hi>Celia,</hi>
+cauſed her to attire her ſelfe richly, and ſhee ſtood be<g ref="char:EOLhyphen"/>ſide
+her. <hi>Pauſanias</hi> beholding, was exceedingly ra<g ref="char:EOLhyphen"/>viſht,
+in regard his fancy had come ſhort of the truth;
+for <hi>Celia,</hi> beſides her ſlender ſhape, was of a plea<g ref="char:EOLhyphen"/>ſing
+beauty; but her luſtre was eclips'd by <hi>Aurora's</hi>
+preſence, whoſe eyes were ſpheres of light, her fore<g ref="char:EOLhyphen"/>head
+a plaine of Lillies, her haire the riches of <hi>Ara<g ref="char:EOLhyphen"/>bia;</hi>
+in her cheeke Roſes, her mouth Pearles, her neck
+of Alabaſter, her breaſts of Snow, and hands of po<g ref="char:EOLhyphen"/>liſht
+Ivorie; ſhe was attir'd in greene Tabey, wrought
+with gold, ſo that ſhe appear'd like a Diamond encha<g ref="char:EOLhyphen"/>ſed
+in Emralds, her Gowne Skie-colour, laid with
+black Buttons and Loopes: in a word, ſhe was altoge<g ref="char:EOLhyphen"/>ther
+divine, her perfections many, and her yeares few.
+<hi>Pauſanias</hi> was much aſtoniſhed, yet fearefull the Sea
+ſhould ſee her, leſt he ſhould wooe her for one of his
+waterie Deities; and thanking his own perſeverance,
+hee determined to gaine her that had got his ſoule,
+though at the expence of a long abſence from his
+Countrey: for he found that the Picture of <hi>Aurora</hi>
+that he had ſeen was farre un<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quall to the divine <hi>Ce<g ref="char:EOLhyphen"/>lia:</hi>
+he eſteemed the time well employ'd that he had
+ſpent in adoring thoſe Walls, ſince within them hee
+had found ſo much more then expectation had pro<g ref="char:EOLhyphen"/>miſed.</p>
+            <p>Whilſt <hi>Pauſanias</hi> enjoy'd theſe favours paſſing the
+night with them, and the day with hopes, it happen<g ref="char:EOLhyphen"/>ed
+that <hi>Dionyſius</hi> ſent for one of thoſe that waited on
+<hi>Aurora,</hi> a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d threatned him, that if either through
+his or his fellows fault, it ſhould be known where his
+daughter was, they ſhould inſtantly dye a ſhamefull
+<pb n="17" facs="tcp:114828:13"/>
+death. With this feare he returned to the reſt, and
+gave them notice how much it concerned them that
+<hi>Pauſanias</hi> would quit the Iſland, ſince he might eaſily
+at one time or other, as he walked in the wood, ſee
+the Princeſſe, and occaſion all their ruines: So eaſie is
+it, replyed another, that I thinke he pretends, if he
+have not already effected it: for I have obſerv'd, that
+he looks up very intentively to thoſe Balcones; and
+ſhe hath enquired of me who he is; and if he perſiſt,
+hee muſt of neceſſity come to know her, and we to
+loſe <hi>Dionyſius</hi> favour. In effect, feare overcame them,
+and all agreeing that hee ſhould not continue there,
+they advertis'd him that it concern'd his life to ab<g ref="char:EOLhyphen"/>ſent
+himſelfe.</p>
+            <p>
+               <hi>Pauſanias</hi> wondred at their ſuddaine reſoluti<g ref="char:EOLhyphen"/>on,
+and after many conjectures began to ſuſpect that
+without doubt ſome one of them lov'd <hi>Celia,</hi> and
+would uſe that meanes to ſecure his jealouſie or envy:
+and thereupon he determin'd to ſpeake to them all,
+that he might ſatisfie him who conceiv'd himſelfe in<g ref="char:EOLhyphen"/>jur'd,
+and to beſeech them againe not to offer him ſo
+great a diſcourteſie, as to conſtraine him to depart the
+Iſland, untill ſuch time as he had news of his ſervants,
+whoſe lives perhaps the Sea had pardoned. He plainly
+perceiv'd how difficult it was to reclaime them, ſee<g ref="char:EOLhyphen"/>ing
+thoſe that before ſo kindely entertain'd him,
+now behold him diſtaſtefully (for ill will is diſ<g ref="char:EOLhyphen"/>cover'd
+by the eyes, countenance, and carriage) and
+one morning finding them altogether, hee ſaid to
+them:</p>
+            <q>
+               <p>Gentlemen and friends, my birth is noble, and
+<pb n="18" facs="tcp:114828:14"/>
+though I live where I am unknowne to all but my
+ſelfe, I doe not thinke any here can complaine of
+my demeanour, for men of my parentage receive
+not benefits unthankfully, (ingratitude and noble<g ref="char:EOLhyphen"/>neſſe
+differing as night and day) I came to this
+Iſland, or to ſay better, my fortune threw me here,
+not unhappily, ſince in it I have found both protecti<g ref="char:EOLunhyphen"/>on,
+and friends. Here I have liv'd a while, endea<g ref="char:EOLhyphen"/>voring
+to ſatisfie to my power, though not to my
+deſire, the favours I have receiv'd from all: but it
+ſeemes I have not ſufficiently expreſt my ſelfe; ſince
+when I think you moſt my friends, you threaten me
+with death unleſſe I depart: I have enquired what
+might be the reaſon, but indeed can finde none, un<g ref="char:EOLhyphen"/>leſſe
+ſome one of you being jealous, incites the reſt
+to this violence: which if it be ſo, hee ought to
+conſider, that a man doth not offend, unleſſe hee
+know that he injures; for he who through igno<g ref="char:EOLhyphen"/>rance
+or innocence ſollicits that whereunto another
+hath right, can onely then be ſaid to offend, when
+after he knowes the truth he purſues his wiſh; and
+ſo to have ſurveigh'd this Caſtle, with a deſire to ſee
+what it inclos'd, or by curioſity to have obtein'd
+that fight can not diſquiet any one; for before this
+preſent I knew not that it would give offence;
+and if I conceive aright, there is more then one
+Goddeſſe inhabits there; ſo that none hath reaſon
+to complaine of mee, becauſe I neither injur'd
+him out of malice, nor can he know to which I am
+enclin'd.</p>
+            </q>
+            <p>
+               <hi>Pauſanias</hi> thought by this to have appeas'd and
+<pb n="19" facs="tcp:114828:14"/>
+ſatisfied them, but the event was contrary, for the
+knowledge of this ſecret being their greateſt feare,
+they needed no other information to draw their
+ſwords, and aſſault his life. But before they could
+diſpatch it, <hi>Aurora</hi> and her gentlewomen hearing the
+noiſe, ſaw the treacherous miſchiefe they intended to
+a ſingle ſtranger, and forgetting her greatneſſe, (for
+love conſiders not quality, when that which is eſtee<g ref="char:EOLhyphen"/>med
+is in danger) ſent to command them all to de<g ref="char:EOLhyphen"/>ſiſt,
+and informe her of their quarrell; who comming
+before her, related what charge her Father had given
+them, adding, that <hi>Pauſanias</hi> for certaine either
+had already, or elſe meant to ſpeak with one of the
+Ladies that attended her highneſſe; which might
+give occaſion to diſcover what <hi>Dionyſius</hi> intended
+to keep ſo ſecret, that none but heaven and them<g ref="char:EOLhyphen"/>ſelves
+ſhould know, and therefore to excuſe the dan<g ref="char:EOLhyphen"/>ger
+that threatned them, it was neceſſary to take a<g ref="char:EOLhyphen"/>way
+his life.</p>
+            <q>
+               <p>It would be (replyed <hi>Aurora</hi>) impiety in me
+to conſent to it, and treachery in you to effect it,
+becauſe I am informed you have received courte<g ref="char:EOLhyphen"/>ſies
+from this Gentleman, &amp; there is no reaſon you
+ſhould take away his life, whom you your ſelves
+confeſſe to be of ſuch eſtimable parts; eſpecially
+for that which may be remedied without bloud. I
+underſtand that <hi>Pauſanias</hi> ſaw one night one of my
+women, whom either for the novelty, or opportu<g ref="char:EOLhyphen"/>nity
+he courted, and ſhe (I think) heard him not
+unwillingly; For this reaſon it concernes me that
+he ſtay no longer in this Iſland; and ſince his ab<g ref="char:EOLhyphen"/>ſence
+is ſufficient to ſecure you, I take that and your
+<pb n="20" facs="tcp:114828:15"/>
+danger upon my ſelfe, for <hi>Pauſanias</hi> is a gentle<g ref="char:EOLhyphen"/>man,
+and can conceale what he hath ſeen.</p>
+            </q>
+            <p>With theſe hopes they were ſatisfied, and <hi>Auro<g ref="char:EOLhyphen"/>ra</hi>
+remained in a thouſand perplexityes: for ſhe lov'd
+him ſo paſſionately, that there would be but little
+difference betwixt looſing him and her owne life.
+And indeed ſo powerfull was his diſcourſe and con<g ref="char:EOLhyphen"/>verſation,
+that although he had been leſſe worthy of
+her beauty, yet to ſee and heare him would beget affe<g ref="char:EOLhyphen"/>ction:
+And at laſt ſhe became ſo reſolute, that it
+would have grieved her to have been freed from her
+priſon, if ſhe ſhould thereby be deprived of his plea<g ref="char:EOLhyphen"/>ſing
+converſation: for women, when they once fall
+in love, are ſenſible neither of paines or misfortunes
+which befall them in the company they affect:
+wherefore ſhe conſidered by what meanes ſhe might
+comply with her own affection, and her ſervants
+feare. To keep him there againſt all their wills were
+to hazard her honour, and to give her enemies an oc<g ref="char:EOLhyphen"/>caſion
+of a more ſevere revenge. Having firſt adviz'd
+with <hi>Celia,</hi> ſhe writ a Letter, wherein ſhe inform<g ref="char:EOLhyphen"/>ed
+him of what had paſt, entreating him affectionate<g ref="char:EOLhyphen"/>ly
+to preſerve his life, and to prepare for departure;
+two things in appearance contrary. When night
+was come, the faire Princeſſe went forth to take
+leave of <hi>Pauſanias,</hi> and delivering him the Letter,
+with a little Silver Cabinet wrapt in Taffata, not
+having power to ſpeake, ſhee withdrew her ſelfe, to
+lament her enſuing misfortunes. <hi>Pauſanias</hi> alſo re<g ref="char:EOLhyphen"/>tir'd,
+through the ſuſpition of the late quarrell, and
+kiſsing the Signature, which ſaid, <hi>Your Celia,</hi> he
+read it with much feare, on this manner.</p>
+            <p>
+               <pb n="21" facs="tcp:114828:15"/>
+SIr, I have had much care for you this
+day; I ſaw you draw your Sword, and
+I aſſure you it troubled me: I think it was
+love, yet unfortunate, ſince it muſt dye
+as ſoone as borne. We are both the cauſe
+of it, becauſe I gheſſe our affection hath
+been diſcovered. My birth is more noble
+then you imagine; and it concernes us both
+that you immediately abſent your ſelf, that
+you loſe not your life, nor I my reputation.
+(Believe mee I am very ſenſible of it,
+for in a word, I love you, and muſt loſe
+you. You may comfort your ſelfe with this
+thought, that it was impoſſible I ſhould
+ever have been yours, not for love to any
+other, but for my qualitie too tranſcen<g ref="char:EOLhyphen"/>dent.
+I ſend you here a thouſand Crowns
+to ſerve you in your journey, with a knot
+of Diamonds and Emeralds, which I
+did ſometimes weare at my breast, that in
+your Countrey you may remember it was
+mine, and its owner yours.</p>
+            <p>
+               <pb n="22" facs="tcp:114828:16"/>
+Having read and deplor'd the rigorous ſentence
+of his death, hee reſolved preciſely to obey all that
+<hi>Aurora</hi> in it had commanded, and to let her know
+ſome part of his regret, he tooke the Pen, and re<g ref="char:EOLhyphen"/>turn'd
+this anſwer:</p>
+            <p>
+               <hi>I</hi> Should have eſteem'd it a happineſſe if
+to day I had received death by my ene<g ref="char:EOLhyphen"/>mies
+(ſince ſuch they were) that I might
+not have expected it from your hands: Be<g ref="char:EOLhyphen"/>fore
+the mornings light breakes forth, I
+will abſent my ſelfe from yours, that you
+may ſay I knew how to love and to obey
+you: What I would not doe for my owne
+life, I will for your honour: I cannot ex<g ref="char:EOLhyphen"/>preſſe
+what I feele, becauſe I write perplex<g ref="char:EOLhyphen"/>ed,
+and can aſcertaine nothing; onely I aſ<g ref="char:EOLhyphen"/>ſure
+you my bloud is ſo noble, that the King
+of <hi>Syracuſe</hi> himſelfe cannot ſay hee is my
+better. I came out of my Countrey to
+marry in this Kingdome, &amp; for your ſake
+will return back. I give you infinite thanks
+for your Preſent, and will not excuſe my
+ſelfe from repaying it hereafter. The knot
+<pb n="23" facs="tcp:114828:16"/>
+I will keepe as your favour; and ſince you
+have given me ſo much cauſe of griefe, give
+me time to lament it, though I hope ſo to
+reſent it, that when you leaſt thinke of it,
+you will heare newes of his death, who
+knew how to love you, but had not the
+happineſſe to deſerve you.</p>
+            <p>
+               <hi>Aurora</hi> with much trembling made an end of rea<g ref="char:EOLhyphen"/>ding
+the Letter, and not able to reſtraine her eyes,
+bath'd it in teares. <hi>Celia</hi> came to her, and tooke out
+of her hand the occaſion of her griefe, but that little
+avail'd, for ſhe tooke it not out of her breaſt; ſo that
+as ſhe went through a long Gallerie, ſhe wrung her
+hands, beſeeching heaven to increaſe her Fathers ri<g ref="char:EOLhyphen"/>gour,
+and <hi>Arminda's</hi> hate, that they might contrive
+her death. She went to looke towards the Sea, ima<g ref="char:EOLhyphen"/>gining
+that her loſt lover was already embarqued;
+and comming thither, ſo exceſſive were her teares and
+paſſionat expreſſions, that <hi>Celia</hi> fearing ſhe might of<g ref="char:EOLhyphen"/>fer
+ſome violence to her ſelfe, amongſt other reaſons
+ſaid thus to her.</p>
+            <q>
+               <p>Is it poſſible Madam that a diſproportion'd affe<g ref="char:EOLhyphen"/>ction
+ſhould ſo extremely work upon you! I ſhould
+not have beleev'd this of your reſerv'd diſcretion,
+if I had not ſeene it. I confeſſe <hi>Pauſanias</hi> deſerves
+to be lov'd, but you know he is not a man equall to
+your condition, nor can in reaſon be yours; what
+proofe have you of his diſcent, more then his owne
+<pb n="24" facs="tcp:114828:17"/>
+relation? which may well be doubted, for the
+meaner ſort where they are not knowne, give large
+teſtimonies of their bloud. Alas (replyed <hi>Aurora</hi>)
+that uncertainty is my greateſt trouble: If <hi>Pauſa<g ref="char:EOLhyphen"/>nias</hi>
+be as noble as he hath intimated, perhaps I
+might have attempted ſomething you would little
+have ſuſpected from my reſervedneſſe; and I per<g ref="char:EOLhyphen"/>ſwade
+my ſelfe it might yet well be done, were it
+but to free my ſelfe from impriſonment: And
+though I ſhould marry into a ſtranger Country, I
+ſhould not loſe my right to the Kingdom after my
+Father; I believe his Subjects affect me ſo entirely,
+that if they knew I were here in priſon, he would
+have little ſecurity either of his Kingdome or life.
+Tell me <hi>Celia,</hi> what can I hope for in this Caſtle
+but death? My Father is married, and in love: <hi>Ar<g ref="char:EOLhyphen"/>minda</hi>
+governes the Kingdome, and beares mee ſo
+much ill will, that I many times eat my meat in
+feare, ſuſpecting ſhee hath ſent ſomething to kill
+me, though I ſhall now need no other poiſon then
+the abſence of <hi>Pauſanias.</hi> Oh <hi>Celia,</hi> you would ob<g ref="char:EOLhyphen"/>lige
+me, if you could contrive how I might ſpeake
+with him, and be better inform'd of his quality, that
+I may not continue thus in ſuſpence: If hee bee of
+meane Parentage, I will rather dye by mine owne
+hand, then admit a thought may ſtaine my bloud;
+and if to my happy fortune he ſhould prove (as is
+not impoſſible) ſome Prince caſt upon this Iſland
+by accident, be confident, I would hazard my life
+for my liberty, though in all things I ſhould firſt
+take your advice, that I might not erre through
+mine own opinion.</p>
+            </q>
+            <p>
+               <pb n="25" facs="tcp:114828:17"/>
+               <hi>Celila</hi> was attentive to what ſhe ſaid, and compaſ<g ref="char:EOLhyphen"/>ſionating
+her teares, began to conſider, if by any
+meanes ſhee might come to the ſight of <hi>Pauſanias,</hi>
+without endangering his life; ſhee had an acute and
+ready wit, but withall accompanied with ſo much
+diſcretion, that whatſoever ſhee undertook ſucceeded
+happily. After much deliberation ſhee concluded,
+that it was requiſite (for feare of his enemies) not
+to ſee him for that time; but that he ſhould continue
+ſome dayes in the thickets of that mountaine, and
+then might come hither by night having notice gi<g ref="char:EOLhyphen"/>ven
+him by <hi>Libanius,</hi> (one in whom ſhe repoſed
+truſt.)</p>
+            <q>
+               <p>Thus farre, replyed <hi>Aurora,</hi> you have well or<g ref="char:EOLhyphen"/>dered
+it, but what meanes remaines to ſpeake with
+him? for to diſcourſe from hence is very dange<g ref="char:EOLhyphen"/>rous.
+If you will not heare me make an end, (re<g ref="char:EOLhyphen"/>plyed
+the diſcret <hi>Celia</hi>) neither can I let you know
+the deſire I have to ſerve you, nor you your ſelfe
+obtaine your affection: I ſay, Madam, that <hi>Pauſani<g ref="char:EOLhyphen"/>as</hi>
+comming to theſe Walls may get up, by our aſ<g ref="char:EOLhyphen"/>ſiſtance,
+&amp; the help of a Ladder, to this part of the
+houſe adjoyning to your lodgings: ſo that I having
+the key of the outward doore, you need not feare,
+and by the Balcones that look towards the Sea,
+may diſcourſe with him till you are ſatisfi'd con<g ref="char:EOLhyphen"/>cerning
+his birth. Conſider now, if you finde with<g ref="char:EOLhyphen"/>in
+your ſelf love enough to embolden you for this
+contrivement: for my owne part I aſſure you that
+I am ready to loſe my life in your ſervice.</p>
+            </q>
+            <p>
+               <hi>Aurora</hi> was by this much comforted, and embra<g ref="char:EOLhyphen"/>ced
+<hi>Celia</hi> a thouſand times; who by Letter advertis'd
+<pb n="26" facs="tcp:114828:18"/>
+               <hi>Pauſanias</hi> of her determination, ſhe charged <hi>Libani<g ref="char:EOLhyphen"/>us</hi>
+to deliver him the Letter, and attend him as a
+guide. <hi>Pauſanias</hi> had taken the road towards <hi>Sicily,</hi>
+to try if hee might finde in that way any of his loſt
+ſervants. <hi>Libanius</hi> over-tooke him, and deliver'd the
+Letter and Meſſage from <hi>Celia: Pauſanias</hi> receiv'd it
+as one that ſaw his dead hopes revived, and having
+read it, &amp; rewarded the welcome newes, <hi>Libanius</hi> in<g ref="char:EOLhyphen"/>formed
+him of what hee was to doe. So paſſing
+through the wide wood, they came to a poore Shep<g ref="char:EOLhyphen"/>heards
+Cottage where <hi>Pauſanius</hi> ſtai'd, and <hi>Libanius</hi>
+return'd to give his Lady notice of what had paſſed.
+Hee continued there foure dayes, favour'd and che<g ref="char:EOLhyphen"/>riſh'd
+by <hi>Aurora,</hi> who every day ſent <hi>Libanus</hi> to
+viſit him: and one night, as darke as the wiſh of any
+Lover could paint it, he came to the Pallace, (or ra<g ref="char:EOLhyphen"/>ther
+to the ſphere of the Sun of that Iſland) and
+diſmiſſed <hi>Libanius,</hi> (for a ſervant may not bee wit<g ref="char:EOLhyphen"/>neſſe
+to every thing) then upon a ſigne given, <hi>Celia</hi>
+and <hi>Aurora</hi> came forth, and letting downe a Ladder
+of Cords, <hi>Pauſanias</hi> in a moment got into the Bal<g ref="char:EOLhyphen"/>cone,
+and having kiſt <hi>Aurora's</hi> hands as his Miſtris,
+and <hi>Celia's</hi> as his Miſtreſſe's Lady, they led him
+through many roomes, ſo richly furniſht with hang<g ref="char:EOLhyphen"/>ings,
+chaires of State, and pictures, that it ſhewed no
+leſſe magnificence then what he had forſaken in <hi>Ma<g ref="char:EOLhyphen"/>cedonia.</hi>
+And comming to a part that excelled the reſt,
+as being furniſh'd for ſtrangers, <hi>Aurora</hi> told him,
+that he might abide there, intimating how requiſite
+care and obedience were, and that to attempt the con<g ref="char:EOLhyphen"/>trary,
+was to put his life in apparent danger. Then
+ſo farre replyed <hi>Pauſanias,</hi> I ſhall preſerve it ſafe,
+<pb n="27" facs="tcp:114828:18"/>
+having no will but your pleaſure. <hi>Aurora</hi> gave him
+thanks, telling him, that becauſe her Lady was pre<g ref="char:EOLhyphen"/>ſent,
+ſhe omitted many things which ſhe reſerv'd for
+more privacie; and taking her leave ſhew'd him the
+Balcone by which they might diſcourſe.</p>
+            <p>
+               <hi>Pauſanias</hi> was well contented with his courteous
+entertainment, paſſing the greateſt part of the day in
+contemplating that miracle of beauty; their mutuall
+affection increaſed equally (for by converſation love
+out-growes his infancy) and as one night they were
+both in diſpute, whether lov'd more truly (a quar<g ref="char:EOLhyphen"/>rell
+wherein it grieves none to be overcome) <hi>Aurora</hi>
+with ſome expreſſions of reſentment, ſaid thus:</p>
+            <q>
+               <p>I have long deſired my <hi>Pauſanias,</hi> to know a
+truth, though, for feare of expoſing my ſelfe to
+the hazard of dying, I have not demanded it; but
+that I may not remaine ever in this ſuſpence, I will
+boldly adventure my life: It concernes me no leſſe
+then my honour and quiet to know who you are,
+that I may diſpoſe of my ſelf with ſome reſolution,
+and hereof I require no other teſtimony, then to
+know it from your own mouth: for I have ſo great
+an opinion of you, and repoſe ſo much confidence
+in your worth, that I am ſure you will not deceive
+me. My birth is noble, and ſo noble that no woman
+can boaſt higher bloud: for this Lady on whom I
+wait (though my Miſtris) in this hath no advantage
+of me, as, by the favour ſhe ſheweth me, you may
+have gather'd the inequality is not much. The
+reaſon why we dwell in this Caſtle, I will not
+now let you know; though, if your anſwer ſuit with
+my minde, you may: But in the meane time I con<g ref="char:EOLhyphen"/>jure
+<pb n="28" facs="tcp:114828:19"/>
+you by My ſelfe, by the love you beare me,
+and by that you owe me, to ſatisfie me in this re<g ref="char:EOLhyphen"/>queſt,
+which I aſſure you detaines my ſoule in extra<g ref="char:EOLhyphen"/>ordinary
+affliction.</p>
+            </q>
+            <p>
+               <hi>Pauſanias</hi> obliged by <hi>Aurora's</hi> entreaties was rea<g ref="char:EOLhyphen"/>dy
+to have diſcovered himſelfe; but that hee might
+with leſſe difficulty be believed, he anſwered, that he
+was onely Son to the Admirall of <hi>Macedonias</hi> a man
+ſo eminent and beloved of the people, and of <hi>Time<g ref="char:EOLhyphen"/>nides</hi>
+his King, that he poſſeſt the firſt place in his affe<g ref="char:EOLhyphen"/>ction,
+and in the government of that Monarchy. <hi>Au<g ref="char:EOLhyphen"/>rora</hi>
+remain'd not diſcontented, ſince the innequalitie,
+was not ſo great as might deface the pleaſing hopes
+ſhe had imprinted in her breaſt. Onely <hi>Pauſanias</hi> was
+angrie at himſelfe, being conſcious that to deceive
+her who relyed ſo confidently on him was a kinde of
+treachery: yet this offence was not inexcuſable, in
+regard it is ſcarce eſteemed a fault to make uſe of a
+ſlight deceit to compaſſe our deſire. He ſucceeded ſo
+happily in his love, and ſo favour'd by the divine
+eyes of <hi>Aurora,</hi> that though he were not naturally
+diſtruſtfull, yet was he fully perſwaded of her affecti<g ref="char:EOLhyphen"/>on;
+and not without reaſon, ſince the expreſſions he
+had from her of this truth confirmed him in that be<g ref="char:EOLhyphen"/>liefe.</p>
+            <p>
+               <hi>Aurora</hi> communicated to <hi>Celia</hi> all that had paſt;
+reſolving at laſt to let <hi>Pauſanias</hi> know the true cauſes
+of her impriſonment, that he might deliver her out
+of it, and conveigh her where ſhee might be ſecure
+from her unkinde fathers ſeverity; Yet would ſhee
+concea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e this happineſſe a while, to make triall of his
+conſtancy, whereof ſhe had no need to exact ſo many
+<pb n="29" facs="tcp:114828:19"/>
+proofes; for he liued ſo contented onely in loving
+her, that hee ſcarcely employed any other deſire,
+though ſometimes he wiſht himſelfe elſe-where, that
+he might enjoy a nearer converſation, yet with all re<g ref="char:EOLhyphen"/>ſpect
+to her honour. As he continued in this mind, it
+fortuned that <hi>Aurora,</hi> through ſome indiſpoſitions
+could not be ſeene for foure dayes: <hi>Pauſanias</hi> bearing
+with much impatience this abſence (along one to ſo
+true a lover) reſolved to ſee her; and though ſuch
+boldneſſe might violate the promiſe he had made,
+he ſuppoſed the occaſion would excuſe him, where<g ref="char:EOLhyphen"/>upon
+one night, forcing the lock, he came with as
+much feare as ſilence to the bed where <hi>Aurora</hi> lay,
+who had then yeelded to a ſhort ſlumber. He was a<g ref="char:EOLhyphen"/>ſtoniſh'd,
+not without cauſe, to behold the moſt per<g ref="char:EOLhyphen"/>fect
+piece of Natures Pencill; and ſetting down the
+light he carried upon a little ſilver Cup-board, began
+to contemplate that dead beauty, and living patterne
+of Divinity. Her haire was looſe upon her ſhoul<g ref="char:EOLhyphen"/>ders,
+without more confinement then a green Rib<g ref="char:EOLhyphen"/>band;
+her right hand under her cheek, and her left
+careleſly upon the bed, which with a lovers timerouſ<g ref="char:EOLhyphen"/>neſſe
+he took and kiſt. <hi>Aurora</hi> perceiv'd that ſome<g ref="char:EOLhyphen"/>thing
+did diſquiet her, with her eyes halfe open, like
+the Sun when he wakens the day, ſaw a man at her
+bed ſide; and as ſoon as ſhe knew it was <hi>Pauſanias,</hi>
+warm'd with a modeſt baſhfulneſſe, ſhe chang'd the
+Lillies of her Cheeks to Roſes: She asked him angri<g ref="char:EOLhyphen"/>ly,
+why he came thither; He anſwered to ſee her:
+<q>I never thought (replyed <hi>Aurora</hi>) you had valued
+me ſo low as to preferre your own pleaſure before
+my entreaties, &amp; your curioſity before my honour.
+<pb n="30" facs="tcp:114828:20"/>
+I warnd you, that to ſtir forth, concern'd the repu<g ref="char:EOLhyphen"/>tation
+and life of us both; which ſince you have
+done, judge what I may juſtly thinke of you. You
+will ſay Love was the cauſe: Preſumption deceives
+you; you know ſuch teſtimonies better conſiſt with
+the hazard of the man then of the woman. Reſerve
+this freeneſſe, or rather boldneſſe, for women of
+meaner quality: rudeneſſe is not pardonable with
+every one: and be aſſur'd, I am herewith ſo offen<g ref="char:EOLhyphen"/>ded,
+that you cannot oblige me in all your life ſo
+much as you have with this one action diſpleas'd
+me. Returne to your lodging, and deſpaire not of
+liberty, if you eſteem it an impriſonment to be thus
+lockt up; to morrow I will ſpeak to my Lady, that
+with her leave you may returne from whence you
+came; ſo raſh a man is unfit for high deſignes.</q>
+            </p>
+            <p>
+               <hi>Pauſanias</hi> would gladly have replyed to excuſe him<g ref="char:EOLhyphen"/>ſelfe,
+but <hi>Aurora</hi> would not ſuffer him, telling him of
+the danger ſhe incurr'd, if he were diſcovered. Be<g ref="char:EOLhyphen"/>ing
+thus forced to retire, hee wiſh't with griefe hee
+might expiate this enterprize with the loſſe of life.
+<hi>Aurora</hi> was not ſo much diſpleas'd as ſhe ſeem'd: Yet
+to let him know the reſpect due to her perſon, and to
+refine his affection, ſhe thought it diſcretion not to
+ſee him for a few dayes.</p>
+            <p>Meane while, the people (in <hi>Sicily</hi>) impatient
+of <hi>Aurora's</hi> abſence (whom they extremely lov'd)
+began to murmur at her Fathers cruelty, ſaying: what
+mercy can Subjects expect from him that tyrannizes
+over his owne bloud? It proceeded ſo farre, that
+ſome with clamours, others with Armes, required the
+reſtitution of the Princeſſe: The peoples inſolency
+<pb n="31" facs="tcp:114828:20"/>
+affrighted <hi>Dionyſius,</hi> ſo that to diſmiſſe them, and to
+comply with the deſires of his Subjects, Friends, and
+Kindred, hee promiſed they ſhould all ſuddenly ſee
+her: Hereupon he went out privately that night
+with <hi>Clearchus</hi> his Favourite, and arriving where
+<hi>Aurora</hi> was, excuſed his unkindneſſe, and rela<g ref="char:EOLhyphen"/>ted
+the reaſon of his comming; hee comman<g ref="char:EOLhyphen"/>ded
+that immediately ſhe and her company ſhould
+make ready, for they muſt with all ſpeed goe to
+<hi>Sicily.</hi>
+            </p>
+            <p>
+               <hi>Aurora</hi> was ſo diſmai'd as might have given oc<g ref="char:EOLhyphen"/>caſion
+of ſuſpition: <hi>Celia</hi> was ſtruck dumbe, and ſo
+ſuddaine was their departure, that <hi>Aurora</hi> had not
+time to weep. Nevertheleſſe, <hi>Celia</hi> ordered it
+ſo that ſhee ſpoke with <hi>Pauſanias,</hi> but with ſo
+much perplexity and feare, that ſhee was hard<g ref="char:EOLhyphen"/>ly
+underſtood, in interrupted expreſſions ſhee ſaid
+thus:</p>
+            <q>
+               <p>Now, Sir, the time is come, that you may goe
+out of this priſon, and enjoy the deſire you have
+to ſee <hi>Sicily;</hi> there is a neceſſity that divides us. I
+believe the love I bear you will ſeek you out where<g ref="char:EOLhyphen"/>ſoever
+you are: One to whom my fortune hath
+ſubjected mee (more ſevere then his relation
+requires) enjoyneth me to live abſent from what
+I moſt eſteeme; the occaſion is urgent, and he that
+commands powerfull; ſo pardon me, and believe
+it lies not in my power to excuſe it: a ſervant ſhall
+come hither, to bring you ſafe into <hi>Sicily,</hi> though
+not ſo ſoone as I could wiſh: more witneſſes
+then ordinary ſee me. Heavens give you life to my
+deſire.</p>
+            </q>
+            <p>
+               <pb n="23" facs="tcp:114828:21"/>
+Sad and amaz'd was <hi>Pauſanias</hi> at this accident;
+Sad, becauſe <hi>Celia's</hi> words ſeemed to imply that he
+muſt loſe her; and amaz'd, as being ignorant of the
+cauſe: hee could not apprehend the meaning of what
+hee had heard; ſometimes imagining that hee was
+ſentenc'd to depart in puniſhment of his late bold<g ref="char:EOLhyphen"/>neſſe;
+ſometimes that ſhe meant to abſent her ſelfe;
+and that which held him in greateſt ſuſpenſe, was
+the reflecting on her words, That <hi>one to whom by
+fortune ſhe was ſubject, leſse mercifull then his rela<g ref="char:EOLhyphen"/>tion
+required, commanded her not to ſee him.</hi> A
+thing which ſhe had ever conceal'd from him; but
+ſhee referred the diſcovery of this truth to time, the
+undeceiving Glaſſe. The day following paſt, and
+neither <hi>Celia</hi> nor the maid appointed to attend him
+viſiting him; the night came, when making his ac<g ref="char:EOLhyphen"/>cuſtomed
+ſignall from the Balcone, he was anſwer'd
+by his owne eccho: then liftning at the doores,
+and perceiving that all things were in deepe ſilence
+hee ſuſpected one of theſe two things, either ſome
+ſtrange accident had happened, or <hi>Celia</hi> dwelt no
+longer in that place; having ſurpaſt thoſe doubts;
+he reſolved not to ſuffer himſelfe to languiſh, where<g ref="char:EOLhyphen"/>fore
+opening the firſt doore with a Dagger, hee went
+ſo farre till he came to the Chamber of his abſent
+Miſtris, where looking round about, and finding
+nothing but a diſmall ſolitude, hee began to thinke
+all was illuſion and witchcraft; and therefore con<g ref="char:EOLhyphen"/>fidently
+expected his death: Yet being Maſter of no
+leſſe valour then diſcretion, he drew his Sword, and
+went up and down the Caſtle to try if hee could
+free himſelfe out of thoſe enchantments: at length
+<pb n="33" facs="tcp:114828:21"/>
+comming into a Hall, which to his thinking was the
+laſt, he ſaw a ſmall light, and a little further foure
+men: Drawing neare them he ſaid, they muſt ei<g ref="char:EOLhyphen"/>ther
+ſuffer him to goe out quietly, or prepaire for
+Death; for hee was ſo reſolute, that their lives
+ſeem'd but few to his indignation. They, amaiz'd
+to ſee a man where the Sunne (the great Lynx of
+Heaven) could hardly enter, to doe their office,
+drew their timorous ſwords upon him: But hee had
+endangered all their lives, if one of them, laying
+hold of a Halbert, had not held it to his breaſt. The
+valiant youth was mov'd; for feare his excuſable
+where the multitude of enemies may aſſault on every
+ſide; Yet conſidering withall, that to render him<g ref="char:EOLhyphen"/>ſelfe,
+were to runne the hazard of being carried diſ<g ref="char:EOLhyphen"/>honourably
+to <hi>Sicily,</hi> he would rather undergoe the
+danger, then preſerve his life with the ſtain of Cow<g ref="char:EOLhyphen"/>ard;
+He charg'd them to diſpatch him, or elſe hee
+would adventure to change fortunes with them. At
+theſe words they were all daunted, and through feare
+had not courage enough to ſtrike. At laſt they a<g ref="char:EOLhyphen"/>greed,
+not onely to let him depart, but that one
+ſhould accompany him paſt danger of the way; becauſe
+that place was ſo encompaſt with Mountaines and
+woods, that they who were beſt acquainted with the
+Deſart, often loſt themſelves.</p>
+            <p>
+               <hi>Pauſanias</hi> gave them thanks for the curteſie,
+though it rather proceeded from feare then good
+will; and taking leave of them, went forth into
+the wood, with one that held himſelfe the moſt va<g ref="char:EOLhyphen"/>liant
+among them: Before they parted, hee entreated
+him to tell him who was owner of that Caſtle; and
+<pb n="34" facs="tcp:114828:22"/>
+to oblige him the more, put into his hand a rich Dia<g ref="char:EOLhyphen"/>mond
+Ring; ſcarce had he receiv'd it, (though with
+many proteſtations that hee needed not any reward
+to ſerve him) when he confeſſed that it was a houſe
+of Pleaſure, where <hi>Dionyſius</hi> us'd to divirt his minde
+from the cares which attend affaires of State; though
+it were long ſince he had reſorted thither, by reaſon
+his faire daughter <hi>Aurora</hi> had dwelt there privately,
+whom laſt night (mov'd by the importunity of his
+Subjects) he carried back to Court. <q>Had this Prin<g ref="char:EOLhyphen"/>ceſſe
+(ſaid <hi>Pauſanias</hi>) no Ladies that attended her?
+Yes, replyed the timorus Flatterer, but there is
+onely one, called <hi>Celia,</hi> who deſerves her affection:
+For, beſides that her beauty is as ſingular as her diſ<g ref="char:EOLhyphen"/>cretion,
+ſhe is daughter to the Prince of <hi>Arſinda,</hi>
+one of the greateſt and moſt eminent in all <hi>Sicily.</hi>
+               </q>
+               <hi>Pa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſanias</hi> with this information was leſſe afflicted:
+Hee diſmiſs'd the Man, determining to goe con<g ref="char:EOLhyphen"/>ceal'd
+to Court, to ſee his deare, though abſent,
+<hi>Celia.</hi>
+            </p>
+            <p>Let us leave <hi>Pauſanias</hi> in this Mountaine, whilſt
+<hi>Aurora</hi> ſeeks meanes to advertiſe him of the ſud<g ref="char:EOLhyphen"/>dainneſſe
+of her departure, and <hi>Celia</hi> writing (as
+ſhe us'd) a Letter in her name, gave it to <hi>Libanius,</hi>
+commanding him to go where he was, and to bring
+him thence unperceiv'd if't were poſſible: It ſucce<g ref="char:EOLhyphen"/>ded
+not as <hi>Aurora</hi> and <hi>Celia</hi> deſir'd: For <hi>Clearchus</hi>
+a Favourite of the Kings, had long lov'd <hi>Celia,</hi> and
+ſhe favour'd him not onely by her eyes and affection,
+but by the Pen, aſſuring him by many Letters, that
+none but hee ſhould ever poſſeſſe her beauty. Nei<g ref="char:EOLhyphen"/>ther
+was ſhee miſtaken, in her choice: for <hi>Clearchus</hi>
+               <pb n="35" facs="tcp:114828:22"/>
+in every reſpect was her equall, and had ſo high a
+place in the Kings eſteeme, that he was never from
+his ſide. This love was kept ſo private, that none
+but her ſelfe and Heaven knew of it. <hi>Clearchus</hi> by
+chance asking <hi>Libanus</hi> whither he went, he freely
+told him, On a Meſſage from <hi>Celia.</hi> Seeing a Letter
+in his hand he began to miſtruſt her conſtancy: for
+long abſence occaſions ſuſpition of injury. Diſgui<g ref="char:EOLhyphen"/>ſing
+himſelfe the beſt he could, he tooke Horſe and
+went after him; but could not gueſſe at the end of
+his journey, becauſe he went directly towards the Sea.
+It was already night when he entred into a Fiſher-Boat;
+<hi>Clearchus</hi> quitting his Horſe, went over with
+him: when both were in the Wood, <hi>Clearchus</hi> bad
+him deliver what he had about him; <hi>Libanius</hi> ſuppo<g ref="char:EOLhyphen"/>ſing
+he was a Thiefe, drew forth the Crownes that
+<hi>Celia</hi> had given him, and laid them at his feet; then
+begun to ſtrip himſelfe, to ſhew that he had no<g ref="char:EOLhyphen"/>thing
+elſe about him. <hi>Clearchus</hi> finding the Letter,
+promiſed him his life, if he would tell for whom
+it was; and ſo wrought with him, that poore <hi>Li<g ref="char:EOLhyphen"/>banus</hi>
+confeſſed all that he knew. <hi>Clearchus</hi> confirm'd
+in his ſuſpition, reſtor'd him his Crownes, dou<g ref="char:EOLhyphen"/>bled;
+kept the Paper, and charg'd him to returne to
+<hi>Cicily.</hi>
+            </p>
+            <p>
+               <hi>Clearchus</hi> remain'd ſolitary, grieving that he
+thought himſelfe undeceiv'd; and finding a poore
+Shepheards Cottage hard by, haſted thither, where
+taking a fire-brand in ſtead of a Torch, he drew
+out the paper, broke the Seale, and read what fol<g ref="char:EOLhyphen"/>lows.</p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="36" facs="tcp:114828:23"/>
+                  <p>
+                     <hi>I</hi> Have been very ſenſible of this ab<g ref="char:EOLhyphen"/>ſence;
+the rather becauſe I am in ſuch
+a condition, that I cannot communicate
+my reſentment to you: My excuſe is
+the truth, which you ſhall hereafter know
+more at large. If upon ſight hereof you
+come to Court and diſcover your ſelfe to
+his Majesty, I am confident his Noble<g ref="char:EOLhyphen"/>neſſe
+will eſteeme of you according to
+your merit. That you may the leſſe de<g ref="char:EOLhyphen"/>lay
+the performance of this requeſt, I
+ſay no more, but that I am (as ever)
+Yours,</p>
+                  <closer>
+                     <signed>CELIA.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Nothing can expreſſe the paſſionate furie, or the
+Arguments wherewith this miſapprehending Lover
+complain'd of <hi>Celia's</hi> ill uſage, and the injuſtice to<g ref="char:EOLhyphen"/>wards
+his affection. Hee was about to goe backe,
+with intent to teare him in pieces who was the cauſe
+of this jealouſie; but a compaſſionate Shepheard
+diſſwaded him, entreating him to paſſe the reſt of the
+night under that Shed: for to doe otherwiſe would
+ſhew indiſcretion.</p>
+            <p>
+               <pb n="37" facs="tcp:114828:23"/>
+               <hi>Clearchus</hi> (though with ſmall content) yielded,
+and laying himſelfe down upon a freſh bed made of
+Flags and Hay, ſaw hard by him a man ſleeping,
+who by his ſhape and perſon ſeem'd of the beſt
+quality: demanding who he was, the Shepheard
+anſwer'd, that foure houres ſince he came to their
+Cottage, and deſired to reſt under that Covert, to
+avoid the ſharpeneſſe of the night. <hi>Pauſanias</hi> (for
+it was he that ſlept ſo ſecurely, having his grea<g ref="char:EOLhyphen"/>teſt
+enemy beſide him, and had been glad to find
+this poore Cottage where he might repoſe himſelfe,
+wearied with Travell) awaking, perceived that he
+was not alone, but heard him that was by him,
+with ſad complaints curſe his Love, Jealouſie, and
+Fortune.</p>
+            <p>
+               <hi>Pauſanias</hi> liſtning was troubled at what was ſaid,
+but much more at the mention of <hi>Celia,</hi> a name
+that diſquieted his ſoule. Obſerving him more dili<g ref="char:EOLhyphen"/>gently,
+he heard him thus diſcourſe to himſelfe:</p>
+            <q>
+               <p>Is it poſſible (ungratefull Woman) thou canſt
+find in thy heart to diſpoſſeſſe an affection of ſo
+many yeares and paines? Could not thy quality
+acquit thee of lightneſſe? Oh <hi>Celia,</hi> how doth
+a deceitfull promiſe misbecome one that profeſſeth
+ſo much worth? Doſt thou ſo injuriouſly requite
+ſo obſervant a Lover? I perſwade my ſelfe the
+reaſon why thou enjoyneſt me to conceale my affe<g ref="char:EOLhyphen"/>ction,
+was for feare of making thy <hi>Pauſanias</hi> jealous.
+But I vow never to returne home, till he hath
+ſatisfied my jealouſie: Ungratefull, I will begin
+my revenge in killing him whom thou loveſt beſt;
+I will proclaime thy lightneſſe: The World ſhall
+<pb n="38" facs="tcp:114828:24"/>
+know, theſe ſixe yeares that I have ſerved thee, I
+have been in ſuch favour with thee, that thou ne<g ref="char:EOLhyphen"/>ver
+uſedſt Pen but to aſſure me thou wert mine.
+Thou haſt deceiv'd thy ſelfe, falſe woman, deſer<g ref="char:EOLhyphen"/>ting
+me for a ſtranger, that cozens thee with
+profeſſion of Nobility. What canſt thou ſay to
+excuſe they ſelfe, ſince this Letter under thine
+own hand ſpeaks thy unworthineſſe, and my miſ<g ref="char:EOLhyphen"/>fortunes?</p>
+            </q>
+            <p>
+               <hi>Pauſanias</hi> hearing this, was in ſuch perplexity
+that he could not beleeve himſelfe to be awake.
+Impatient that any man ſhould profeſſe himſelfe fa<g ref="char:EOLhyphen"/>vor'd
+of <hi>Celia</hi> (to defend her reputation, and to
+chaſtize his fooliſh arrogance) he aroſe and told
+him, that the part of his ſorrowes which he had
+heard troubled him as much as himſelfe; but if a
+ſight of <hi>Pauſanius</hi> would allay his anger, the laſt
+night he was with a Gentleman of the ſame name,
+and perhaps they might find him in the next Wood.
+<q>I ſhall not be ſo happy, ſaid <hi>Clearchus,</hi> for I know
+my ill fortune when I deſire a thing. Yes, I be<g ref="char:EOLhyphen"/>lieve
+you may replyed <hi>Pauſanias.</hi>
+               </q> Then lighting a
+dry Olive branch he invited him to come after, pro<g ref="char:EOLhyphen"/>minng
+that within a few houres he would bring him
+to him.</p>
+            <p>Thus went they forth together, and coming to
+the moſt intricate place of the Wood, <hi>Pauſanias</hi> ſtuck
+the light upon a Tree, and drawing his ſword, reſo<g ref="char:EOLhyphen"/>lutely
+ſaid to him:</p>
+            <q>
+               <p>I am <hi>Pauſanias,</hi> thy greateſt enemy; I love <hi>Ce<g ref="char:EOLhyphen"/>lia,</hi>
+and muſt enjoy her, though the King of <hi>Sy<g ref="char:EOLhyphen"/>racuſe</hi>
+himſelfe ſhould oppoſe it. Since thou ſaiſt
+<pb n="39" facs="tcp:114828:24"/>
+that thou ſeek'ſt mee earneſtly, make uſe of this ſud<g ref="char:EOLhyphen"/>daine
+occaſion which is offer'd thee. If thou re<g ref="char:EOLhyphen"/>fuſeſt
+to draw thy ſword becauſe thou know'ſt mee
+not, be aſſur'd, my quality is ſo noble, that who<g ref="char:EOLhyphen"/>ſoever
+thinks he hath any advantage of mee, de<g ref="char:EOLhyphen"/>ceives
+himſelfe. I have ſerved <hi>Celia,</hi> if not with
+as much ſecreſie, yet with more affection: if ſhee
+heretofore lov'd thee, and now forgets thee,
+complaine of thy fortune, not her eaſineſſe; and
+ſince thou ſay'ſt the Letter which thou unjuſtly de<g ref="char:EOLhyphen"/>tain'ſt
+was ſent to me, give it me, for I will put it a-amongſt
+others that I have of hers; if not, Ile force
+it from thee.</p>
+            </q>
+            <p>
+               <q>Doe not think (anſwer'd <hi>Clearchus</hi>) thy me<g ref="char:EOLhyphen"/>naces
+move me: my heart is form'd for higher en<g ref="char:EOLhyphen"/>terprizes,
+and e're long thou wilt repent this
+fooliſh raſhneſſe. Yet that thou maiſt know the
+cauſe why I ſought thee ſo earneſtly, and with
+what reaſon I complaine of <hi>Celia,</hi> heare her
+falſhood, and thou wilt confeſſe that I have not
+ſpoken very extravigantly of her. <hi>Celia</hi> and my
+ſelfe have theſe many yeares reciprocally exchang'd
+a pure and ſecret affection; but ſhee being neceſſi<g ref="char:EOLhyphen"/>tated
+to abſent her ſelfe from me for ſome reaſons,
+I was ſo unhappy that in that time ſhee ſaw and
+lov'd thee: if ſhe had neglected me for love of thee,
+I had leſſe reaſon to complaine; but ſhee was
+ſo farre from neglect, that ſhee never favour'd mee
+with larger expreſſions then now; and that thou
+maiſt not thinke theſe calumnies, proceeding rather
+from jealouſie then the truth of one that reſpects
+his honour, ſee whether it bee fa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe or no:</q> ſo
+<pb n="40" facs="tcp:114828:25"/>
+drawing out of his breaſt many Letters and Papers,
+he caſt them at his feet.</p>
+            <p>
+               <hi>Pauſanias</hi> read ſome of them; amongſt others his
+owne, and another which the ſame day ſhe had writ<g ref="char:EOLhyphen"/>ten
+to <hi>Clearchus.</hi> A good while he tooke not his eye
+off from the Papers, it ſeeming to him impoſſible
+there ſhould be in the world a woman ſo facile and ſo
+cunning: but at laſt being fully perſwaded of her
+falſehood, he gathered together all the cozening Let<g ref="char:EOLhyphen"/>ters,
+and threw them into the fire, as if hee could
+conſume ſo many deceits at once. Thereupon
+<hi>Clearchus</hi> with his ſword in hand bad him, if hee
+were a Gentleman, prepaire to defend himſelfe: for
+it was not fitting it ſhould bee ſaid in <hi>Sicily,</hi> that
+having had his enemy in the field he left him alive.
+Thou ſhalt not need to prevent me, anſwered <hi>Pauſa<g ref="char:EOLhyphen"/>nias,</hi>
+for that was the onely reaſon why I drew thee
+out into this wood: and ſo aſſaulting him furiouſly,
+the Combate began, without any apparent advantage
+on either ſide. <hi>Clearchus</hi> was the more weary, as be<g ref="char:EOLhyphen"/>ing
+leſſe dextrous in the exerciſe of Armes. <hi>Pauſanias</hi>
+avoiding a blow that he made, falſifi'd another, and
+wounded him dangerouſly in the head. <hi>Clearchus</hi>
+having his face bathed in bloud, loſt not his courage,
+but enflam'd with revenge, aſſaulted <hi>Pauſanias</hi> ſo
+deſperately, that he was forced to uſe all his skill to
+guard himſelfe. The claſhing of their ſwords di<g ref="char:EOLhyphen"/>ſturb'd
+the Shepheards that went whiſtling their
+Sheep together. They came in the inſtant, when
+the loſſe of bloud abated ſtrength, but not courage in
+<hi>Clearchus.</hi> They all ran in to him, ſeeing him the
+more neceſſitated, and carried him home to their
+<pb n="41" facs="tcp:114828:25"/>
+Cottage, where with medicinall Herbes they enter<g ref="char:EOLhyphen"/>tain'd
+and cured him.</p>
+            <p>The valiant Prince (no leſſe aſtoniſh'd at the cou<g ref="char:EOLhyphen"/>rage
+of <hi>Clearchus,</hi> then at the lightneſſe of <hi>Celia</hi>)
+expected the approach of day, with intent to take
+ſhipping, and returne to his Country. He went to<g ref="char:EOLhyphen"/>wards
+the Sea, and diſcourſing with himſelfe on
+the various events of his fortune, ſaw a ſhip, which
+by its loſſe of tackling and ſailes, ſhew'd it had ſuf<g ref="char:EOLhyphen"/>fer'd
+the anger of inconſtant <hi>Neptune.</hi> He obſerv'd
+the Armes it carryed, and knowing they were his,
+drew neerer to ſatisfie himſelfe: but this doubt la<g ref="char:EOLhyphen"/>ſted
+not long; for <hi>Leontius,</hi> Sonne to the Admirall
+of <hi>Macedonia,</hi> leaping a ſhore with his Compa<g ref="char:EOLhyphen"/>ny,
+knew him, and gave thankes to Heaven for
+the favour it had vouchſaf'd them in preſerving his
+life.</p>
+            <p>They related to him, how that after a long tem<g ref="char:EOLhyphen"/>peſt
+and imminent death, it pleas'd Fortune to ap<g ref="char:EOLhyphen"/>peaſe
+the Sea: But all of them bewailing their Prin<g ref="char:EOLhyphen"/>ces
+abſence, reſolv'd not to returne to <hi>Macedonia</hi>
+without him, ſince hee might poſſibly eſcape alive.
+<hi>Pauſanias</hi> gratified their noble reſolution with fa<g ref="char:EOLhyphen"/>vours
+and rewards. Hee cauſed them to repaire
+their Ship, determining to goe privately into <hi>Sici<g ref="char:EOLhyphen"/>ly;</hi>
+that they might not returne unſatisfied to <hi>Ma<g ref="char:EOLhyphen"/>cedonia;</hi>
+to ſee if the Beauty of <hi>Aurora</hi> pleas'd
+him; and to revenge himſelfe on the inconſtant
+<hi>Celia.</hi>
+            </p>
+            <p>With this reſolution hee went to Court; but his
+arrivall could not be ſo private, but <hi>Dionyſius</hi> had no<g ref="char:EOLhyphen"/>tice
+of it, and immediately gave him a viſit, be<g ref="char:EOLhyphen"/>ſtowing
+<pb n="42" facs="tcp:114828:26"/>
+ſuch extraordinary favours upon him, that
+words ſufficed not to expreſſe his thankfulneſſe.
+<hi>Dioniſius</hi> carried him to ſee the Princeſſe; know<g ref="char:EOLhyphen"/>ing
+her beauty to bee the chiefe motive of his com<g ref="char:EOLhyphen"/>ming
+thither.</p>
+            <p>
+               <hi>Pauſanias</hi> amaz'd when he perceiv'd <hi>Celia,</hi> to
+whom he ſpake, to be by all call'd <hi>Aurora,</hi> was rea<g ref="char:EOLhyphen"/>dy
+to have accus'd <hi>Dionyſius</hi> of impoſture; but <hi>Leon<g ref="char:EOLhyphen"/>tius</hi>
+(who had beene Ambaſſadour before in <hi>Syra<g ref="char:EOLhyphen"/>cuſe</hi>)
+aſſuring him it was <hi>Aurora,</hi> hee was almoſt
+diſtracted; and not treating with <hi>Dionyſius</hi> any fur<g ref="char:EOLhyphen"/>ther
+in that buſineſſe, he reſolv'd to returne to <hi>Ma<g ref="char:EOLhyphen"/>cedonia,</hi>
+ſince a woman engaged to another in love,
+was not fit to be his wife.</p>
+            <p>
+               <hi>Aurora's</hi> thoughts were very different from his,
+for perceiving her good fortune, that <hi>Pauſanias</hi> was
+every way equall to her, ſhee thought the time long
+till ſhee had ſome meanes to accompliſh her affecti<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <hi>Celia</hi> already was inform'd of the quarrell that
+had beene betwixt <hi>Clearchus</hi> and the Prince. And
+as <hi>Aurora</hi> was once complaining of him, for not
+comming to ſollicite that which he ſo much deſir'd,
+<hi>Celia</hi> told her, that the reaſon why hee was ſo
+coole in his Love, was the deceit of her Letters,
+and thereupon recounted all that paſt, advertiſing
+her, that this miſtake was as well cauſe of her
+loſing <hi>Clearchus,</hi> for hee was infected with the
+ſame jealouſie; ſo that it concern'd them both to
+diſcover the private deviſe her Love had made uſe
+of. <hi>Aurora</hi> excuſing the Princes indifferency, in
+regard it proceeded rather from his owne honour
+<pb n="43" facs="tcp:114828:26"/>
+then neglect of her, called <hi>Clearchus,</hi> and diſco<g ref="char:EOLhyphen"/>ver'd
+to him the whole buſineſſe, that he might
+not ſuſpect any thing in prejudice of <hi>Celia's</hi> ho<g ref="char:EOLhyphen"/>nour;
+ſhe commanded him to go viſit <hi>Pauſanias</hi> from
+her, and to let him know the miſtake that had de<g ref="char:EOLhyphen"/>tained
+him in jealouſie.</p>
+            <p>
+               <hi>Clearchus</hi> now freed from all former ſuſpition,
+obey'd, and having kiſs'd the Princes hand, ask'd
+pardon for drawing his ſword againſt him, though
+unknown. <hi>Pauſanias</hi> told him, <q>he was engag'd
+to love his valour, and to deſire his friendſhip. I
+muſt requite this honour, anſwered <hi>Clearchus,</hi> with
+welcome news;</q> and then related the occaſion of
+<hi>Aurorah's</hi> living in the Caſtle; and how imagining
+he was below her greatneſſe, ſhe had diſſembled
+her name, changing it for <hi>Celia,</hi> untill ſhe were
+fully inform'd of his condition; how to avoid the
+danger of having her Letters known, ſhe cauſed <hi>Ce<g ref="char:EOLhyphen"/>lia</hi>
+to write for her; how the reaſon of his going
+to find him in the Wood, was becauſe he had for
+many yeares loved <hi>Celia,</hi> as he had gather'd by his
+words, and ſeeing the Letter with her Seale he was
+confirmed in his jealouſie, blaming the affection of
+guiltleſſe <hi>Celia.</hi>
+            </p>
+            <p>The Prince was ſurprized with wonder and joy
+at this relation of <hi>Clearchus,</hi> and caſting his Armes
+about his neck, in ſigne of love and delight, ſaid, the
+news was ſo conformable to his wiſhes, that only
+time could expreſſe how highly he eſteemed it. Then
+went he to treat with <hi>Dionyſius</hi> concerning his love;
+who promiſed her to him, thereby requiting the com<g ref="char:EOLhyphen"/>plement
+of having left his Countrey; neither was
+<pb n="44" facs="tcp:114828:27"/>
+any more worthy of the Princeſſe, and immediate<g ref="char:EOLhyphen"/>ly
+they writ to <hi>Timenides</hi> the Princes Father about
+their agreement.</p>
+            <p>
+               <hi>Pauſanias</hi> had now opportunity to viſit her, and to
+expoſtulate the favourable deceit, whereby ſhe had
+cauſed his jealouſie. Their Eſpouſals were ſolemnized
+with the greateſt Pompe that <hi>Cicily</hi> ever beheld, joint<g ref="char:EOLhyphen"/>ly
+celebrating thoſe of <hi>Clearchus</hi> and <hi>Celia,</hi> whoſe
+conſtancy merited a ſucceſſe no leſſe fortunate. With<g ref="char:EOLhyphen"/>in
+a few daies they imbarqued for <hi>Macedonia,</hi> attended
+by all the magnificence of the Court.</p>
+            <p>
+               <hi>Timenides</hi> received them with the joy of a Fa<g ref="char:EOLhyphen"/>ther,
+who ſuppoſing his Son loſt or dead, found
+him ſo much improv'd in all things; Then feeling
+himſelfe burden'd with yeares, and through infirmi<g ref="char:EOLhyphen"/>ties
+unable to be the <hi>Atlas</hi> of that weight, he tranſ<g ref="char:EOLhyphen"/>ferred
+the Crown to his Sons head: And that the
+pleaſure of ſo true an affection might be compleat,
+Heaven was pleaſed to beſtow on their firſt yeare a
+Son. <hi>Pauſanias</hi> and <hi>Aurora</hi> living and loving ſo
+unanimouſly that every day ſeemed the firſt of their
+marriage.</p>
+         </div>
+         <div n="2" type="part">
+            <pb n="45" facs="tcp:114828:27"/>
+            <head>The Prince.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Rom the top of <hi>Caucaſus,</hi> a Mountain in
+<hi>Armenia,</hi> deſcended a man, ſavage in ap<g ref="char:EOLhyphen"/>pearance,
+though not in mind; cloath'd
+with ſeverall skins of wild Beaſts, his
+limbs ſtrong and ſwarthy, his face
+ſcorch'd with the Sun, his haire long; at his ſhoulder
+hung a Quiver of Arrowes, at his left ſide a Wood-knife,
+and in his hand he carried a young tree, which
+(being ſtript of the boughes and leaves) was both
+his ſtay and defence; who ſitting down upon a Car<g ref="char:EOLhyphen"/>pet
+of ſweet though ordinary Flowers, drew out of
+his breaſt a beautifull Picture, ſo lively in the obſcure
+Tablet, that it ſeem'd to have more ſoule then it re<g ref="char:EOLhyphen"/>ceived
+from the Pencill; and beholding it as inten<g ref="char:EOLhyphen"/>tively
+as if it had beene the Originall; much trou<g ref="char:EOLhyphen"/>bled
+he thus paſſionately diſcourſed to it:</p>
+            <q>
+               <p>Oh deare, though abſent <hi>Polixena!</hi> it is long ſince
+I enjoy'd thy divine ſight in another condition:
+but what aſsurance will not envy and fortune diſ<g ref="char:EOLhyphen"/>ſolve,
+where both conſpire to proſecute? When
+I firſt caus'd <hi>Tebrandes</hi> to draw thy Picture in this
+Tablet, I little thought that this unequall ſhadow
+<pb n="46" facs="tcp:114828:28"/>
+of thy beauty ſhould ever have been my greateſt
+comfort. Who would have ſaid when in <hi>Albania</hi>
+I maintain'd a Tourney in a habit which thy faire
+hands had embroydered, that I ſhould ever have
+ſeen my ſelfe in an eſtate ſo different, the inhabi<g ref="char:EOLhyphen"/>tant
+of a mountaine, my armes naked, my feet
+covered only with the skin of a Beare, a Trunke
+of a tree my Sword, my lodging a Cave, and
+companions a pair of Lions? But the heavens know
+that neither to be ſo expos'd to the injury of wea<g ref="char:EOLhyphen"/>ther,
+that the Sun takes me for July, and the
+Snow for January; nor to be brought ſo low,
+that I am forc'd every day to kill ſome wild Beaſt
+to ſuſtaine me; nor to live in this diſmall ſo<g ref="char:EOLhyphen"/>litude,
+where I converſe only with Flowers and
+Rivers; nor yet to conſider the ſmall hopes I have
+of better fortune, have power to make me ſad;
+but only the feare that thou doſt forget me: For
+amongſt the troubles which an abſent Lover ſuf<g ref="char:EOLhyphen"/>fers,
+none but this is able to torment him. It is now
+twelve yeares ſince for thy ſake I firſt deſerted <hi>Al<g ref="char:EOLhyphen"/>bania,</hi>
+and were my ſelfe dilated to an age ſhould
+alwaies thus preſerve thee in my breaſt: but alas
+I feare thou doſt not requite me: for women are
+ſaid to place their eyes and wils only on what they
+ſee preſent; becauſe what is paſt is no longer en<g ref="char:EOLhyphen"/>joy'd.
+Having ſo long diſappeared can I doubt my
+death is not believ'd for certaine? And ſome per<g ref="char:EOLhyphen"/>haps
+there are that affirme it, to comply with thoſe
+that hate me. Yet if I live in thy memory, nothing
+elſe can afflict or trouble me. I often imagine, that
+as being but a woman, thou haſt prov'd unconſtant,
+<pb n="47" facs="tcp:114828:28"/>
+and though thy love might continue the firſt yeare
+my abſence, yet ſure the ſecond thou tookſt com<g ref="char:EOLhyphen"/>fort,
+and the third didſt quite turne me out of thy
+breaſt. However, this world hath had ſome, whoſe
+conſtancy hath triumphed over the naturall imbe<g ref="char:EOLhyphen"/>celity
+of their Sex; and thou maiſt bee one of
+thoſe. The dagger of <hi>Lucretia,</hi> the Coales of
+<hi>Portia</hi> and the Aſpes of <hi>Cleopatra</hi> teſtifie, that
+Love is an unapprehenſive of Death. Thy conſtancy
+(faire <hi>Polixena</hi>) would have had no ſuch incon<g ref="char:EOLhyphen"/>venience;
+it would not have hazarded thy life.</p>
+            </q>
+            <p>The tender-ſavage Lover would have proceeded
+in Diſcourſe to the Picture, had he not been inter<g ref="char:EOLhyphen"/>rupted
+by a young Shepheardeſſe, who paſſing by
+the skirts of a green Mountaine (imagining ſhee
+was heard of none but the Birds) as ſhe went along
+ſung thus:</p>
+            <q>
+               <l>
+                  <hi>Menga,</hi> a Shepheardeſſe, neare theſe Brooks borne,</l>
+               <l>(Wonder o'th' earth, and envy of the morne,)</l>
+               <l>Sad and aſham'd complaines of her hard fate;</l>
+               <l>For beauty ſeldome proves more fortunate.</l>
+               <l>Love whoſe ſoft chaines ſhe freely did diſpence</l>
+               <l>To all, at leaſt enſnar'd her innocence.</l>
+               <l>
+                  <hi>Anton,</hi> a Swaine, that many other eyes</l>
+               <l>Attracted, was to hers a ſacrifice;</l>
+               <l>Nor ſlights ſhe his affection, though ſhe feare</l>
+               <l>Their envy who for him like paſſions beare.</l>
+               <l>
+                  <hi>Tereſa's</hi> love ſhe knowes to him enclin'd,</l>
+               <l>A Nymph though faire, yet wanton as the wind:</l>
+               <l>
+                  <pb n="48" facs="tcp:114828:29"/>
+Favours and gifts ſhe never yet withſtood,</l>
+               <l>Inconſtancy deriving with her bloud:</l>
+               <l>All that ſhee ſees her boundleſſe thoughts deſire,</l>
+               <l>For longing fancies greedy eyes require:</l>
+               <l>Once <hi>Menga</hi> found her with <hi>Anton</hi> leſſe coy</l>
+               <l>Then ſhe could wiſh, his but to rob her joy.</l>
+               <l>Shame did ſuppreſſe her anger, but her teares</l>
+               <l>Did unreſtrain'd betray her jealous feares.</l>
+               <l>What have I done, falſe ſhepheardeſſe ſhe ſaid,</l>
+               <l>That thou ſhould'ſt all my happineſſe invade?</l>
+               <l>Thou lov'ſt another, me haſt diſpoſſeſt,</l>
+               <l>Becauſe ſtolne pleaſures are to thee the beſt:</l>
+               <l>I've ſeen thee many love, but true to none,</l>
+               <l>Thou doſt hereditary lightneſſe owne:</l>
+               <l>Enjoy thine owne, not my delights remove,</l>
+               <l>Thou wrong'ſt thy beauty to moleſt my love.</l>
+               <l>Thus <hi>Menga,</hi> who againſt <hi>Tereſa</hi> cries,</l>
+               <l>When ſhe begun to love, left to be wiſe.</l>
+            </q>
+            <p>
+               <hi>Geſimenes</hi> (for ſo was this prodigie of fortune
+nam'd) was much aſtoniſht to heare ſo ſweet a voice
+in a wilde wood unfrequented by any. He aroſe and
+called to her, bidding her not feare, for he was a man
+rationall as others, though his habit expreſſed no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+his condition. The timorous ſhepheardeſſe, when ſhe
+ſaw his ſavage appearance, giving her ſelfe for loſt,
+fled from this counterfeit Satyr, till ſtaid by weari<g ref="char:EOLhyphen"/>neſſe,
+ſhee fell at his feet, ſo affrighted and out of
+breath, that it pittied him he had overtaken her. When
+hee beheld her divine beauty, hee thanked Heaven
+that it had contracted its greateſt perfections in a
+poore Shepherdeſſe. Neither did this admiration pro<g ref="char:EOLhyphen"/>ceed
+<pb n="49" facs="tcp:114828:29"/>
+from a forgetfulneſſe of his faire <hi>Polixena;</hi> but
+the reaſon which induc'd him to this liking, was her
+reſemblance of the other; ſuch as would confound a
+Painter in drawing them both: He took her in his
+armes and carried her to his poore Cave; where, ha<g ref="char:EOLhyphen"/>ving
+firſt recovered her ſenſes with water, which
+hee fetch'd in a Tortoiſe ſhell from the neighbouring
+Rock, hee ſet before her Cakes and dryed fruits;
+hee aſſured her that ſhee was not in danger; that his
+quality was more gentle then his appearance pro<g ref="char:EOLhyphen"/>mis'd;
+that ſhe might continne there in ſafety; and,
+that her beauty had kindled in his breaſt ſo juſt an af<g ref="char:EOLhyphen"/>fection,
+that though he had been ſavage indeed, hee
+ſhould not have been ſo to her: for at the firſt ſight of
+her an inclination did ſecretly invade his ſoul, which
+oblig'd him not onely to honour, but to engage his
+life for her. Therefore he entreated her by the great
+reſpect which, in ſo ſhort a time, ſhe had gain'd up<g ref="char:EOLhyphen"/>on
+him, not to leave his company, but rather to help
+him to paſſe the tediouſneſſe of that ſolitude, then
+afflict his love by her abſence, which hee ſhould infi<g ref="char:EOLhyphen"/>nitely
+reſent.</p>
+            <p>
+               <q>Truely, replyed <hi>Iſmenia,</hi> (ſo was the Shepher<g ref="char:EOLhyphen"/>deſſe
+nam'd) what you require is not onely juſt, but
+due to that civility and protection you promis'd;
+beſides, it concernes my owne intereſt as well as
+yours: for I am fled hither to avoid a man, to whom
+my parents would have married me; one, they ſay,
+doth every way equall me; but, to ſay truth, though
+I was borne among the; Rocks, and am of a low
+parentage, yet have I a ſpirit and thoughts ſo high,
+that I am not in my owne opinion inferiour either
+<pb n="50" facs="tcp:114828:30"/>
+the heire of <hi>Albania,</hi> or the King of <hi>Armenia.</hi>
+This morning I roſe with intent to ſubdue that ſelf-conceit,
+and love him in obedience to thoſe that
+perſwaded me; but finding I could not affect him,
+nor reclaime my ſtubborne will, I ſtole away and
+hid my ſelfe in this Mountaine, chuſing rather to be
+a prey to the wild beaſts, then to one I could not
+without diſdaine behold: though many women
+are of opinion that converſation may produce affe<g ref="char:EOLhyphen"/>ction;
+yet could not I expoſe my ſelfe to ſo appa<g ref="char:EOLhyphen"/>rent
+hazard, fearing the worſt: For the danger is
+great which ſhe incurs, who out of this confidence
+undervaluing her owne liberty, marries one that
+ſhe abhorres. But becauſe I finde within my ſelfe
+(beſides the thanks I owe your curteſie and enter<g ref="char:EOLhyphen"/>tainment)
+ſomething that moves mee to love and
+reſpect you; for though you appear outwardly a ſon
+of theſe Rocks, yet your civill demeanour contra<g ref="char:EOLhyphen"/>dicts
+that appearance; I conjure you therefore by
+your ſelfe to tell me who you are, and the reaſon of
+your living in this Deſart; ſince we have agreed to
+dwell together, and I have given you an account of
+my fortune, it is fit you requite mee with the
+like.</q>
+            </p>
+            <q>
+               <p>This requeſt (ſaid <hi>Geſimenes</hi>) will much af<g ref="char:EOLhyphen"/>flict
+me: the remembrance of miſeries cannot
+bee renewed without teares, though I uſe often
+to repeate mine to the heavens, to the fields, and to
+this little river; yet becauſe in them you are my on<g ref="char:EOLhyphen"/>ly
+comfort, and to ſatisfie in ſome manner for the
+favour you do me in dwelling (as you have promi<g ref="char:EOLhyphen"/>ſed)
+with me, I will relate my birth, condition,
+and misfortunes.</p>
+               <p>
+                  <pb n="51" facs="tcp:114828:30"/>
+I am naturall ſon to <hi>Pharnazes,</hi> King of <hi>Al<g ref="char:EOLhyphen"/>bania,</hi>
+who dearely lov'd <hi>Clorinda,</hi> a Lady whoſe
+eminence and merit made her hope to bee his wife,
+&amp; in that confidence reſigne her ſelf into his arms;
+but not long after was by reaſon of ſtate induc'd to
+marry <hi>Rodantha,</hi> who prov'd with childe at the
+ſame time that <hi>Clorinda</hi> my mother went with me:
+I would to heaven I had never ſeen the light, (for
+he that is borne to be unfortunat,e begins not his
+life, but death.) So it happened that <hi>Pharnazes</hi> had
+in one day two ſonnes, one by his wife, the other
+by his Miſtris: and (though brothers) of a diffe<g ref="char:EOLhyphen"/>rent
+fortune and quality, for <hi>Lucanders</hi> Mother
+was the more noble: but who would think that
+<hi>Pharnazes</hi> loving my Mother ſo affectionately, nay
+ſhe her ſelfe, forgetting the paines, and griefe I had
+coſt her, ſhould hate me: It was ſure the malignant
+influence of my Starres which arriv'd at that hight,
+that I was conſtrain'd when I would obtaine any
+thing of my Father, to have recourſe to the Queen,
+who though ſhe had a juſt reaſon to hate me, pittied
+and favour'd me. <hi>Lucander</hi> and my ſelfe came to
+the ſtate of youth; I, as being the leſſe fortunate,
+was more beloved of the people; he of my Father,
+as heire to the Monarchy: Thus farre I cannot ſay
+I was very unhappy, for if he may juſtly bee called
+ſo who is borne indiſcreet, and lives hated <hi>Lucan<g ref="char:EOLhyphen"/>der</hi>
+was the leſſe fortunate; but the originall of all
+my afflictions was the faire <hi>Polixena,</hi> at the ſame
+time brought up at Court, daughter to the Prince
+<hi>Saga,</hi> one of great power, and neare allyed to the
+King, without whoſe adviſe he undertook nothing
+<pb n="52" facs="tcp:114828:31"/>
+of weight: I would diſcourſe more largely of her
+beauty and perfections, if my love would not make
+that ſeem paſſion, which heaven and my ſelfe know
+is but truth. I ſpeake to a woman, and ſuch heare
+with ſmall delight the prayſes of others: She was
+the faireſt in that Conntrey, and from our tender
+yeares, wee began to court her: I with leſſe hope
+then <hi>Lucander,</hi> as one not borne a Prince: but
+Love both a childe, and blinde, often miſtakes and
+ſtumbles. I did ill to ſay my birth was attended by
+no happie fortune, ſince <hi>Polixena</hi> fixed her eyes on
+me, and that ſo freely, that whatſoever I did ſhee
+graced with eſteeme, whatſoever my brother
+attempted diſpleaſed her. At the publike and ſo<g ref="char:EOLhyphen"/>lemne
+Exerciſes, her favourable eyes encouraged
+mee, and made me ſucceſſefull, not without the
+envy of many Princes that ador'd her, eſpecially
+of <hi>Lucander:</hi> truly I had the advantage of him
+in behaviour, diſcretion, and ſtature; yet few wo<g ref="char:EOLhyphen"/>men
+would have conſider'd thoſe accidents, the
+qualities of the minde being in little eſteem in the
+unfortunate. But <hi>Polixena</hi> either leſſe ambitious,
+or more unhappy, inclin'd her affection to mee ſo
+farre, that after a long time ſhe gave me leave to
+obtaine her embraces, which by a private way in<g ref="char:EOLhyphen"/>to
+her chamber I enjoy'd: <hi>Lucander</hi> had treated
+with her Father about marriage, engaging him<g ref="char:EOLhyphen"/>ſelfe
+ſtill further in his fond affection; knowing I
+was his rivall, he was the more earneſt in his ſoli<g ref="char:EOLhyphen"/>citation,
+being vext to ſee <hi>Polixena</hi> prefer mee,
+the illegitimate ſonne, before him the heire to the
+Kingdome. Her Father (tranſported with his in<g ref="char:EOLhyphen"/>tereſt,
+<pb n="53" facs="tcp:114828:31"/>
+and hope of ſeeing the Crowne upon his
+Daughters head) being diſpleas'd with my affecti<g ref="char:EOLhyphen"/>on,
+lookt not favorably on me, and chid <hi>Polixe<g ref="char:EOLhyphen"/>na,</hi>
+adviſing her to love <hi>Lucander;</hi> becauſe from
+thence more good then ſhe imagin'd might reſult.
+But this counſell was vaine; her election was no
+longer free; much leſſe when ſhe perceiv'd ſhee
+was with childe. This confirmation of our love en<g ref="char:EOLhyphen"/>creas'd
+my Obligation, and her danger: for this
+Diſeaſe being difficult to conceale, and her Father
+unwilling ſhe ſhould bee mine, we had reaſon to
+feare the event: ſhe diſſembled the miſhap ſo care<g ref="char:EOLhyphen"/>fully,
+that not any of her ſervants ſuſpected it. The
+perplexity wherin I remain'd was as of one that ſees
+his Love in the power of enemies: If ſhe would
+have ſent me the childe, ſhe durſt not; for <hi>Lu<g ref="char:EOLhyphen"/>cander</hi>
+had gained all or the moſt part of them to be
+of his party. Thus every moment did theſe feares
+diſquiet us, till one night ſuch extremity of paine
+wakened her, that ſhe preſently knew the reaſon,
+and putting on her cloathes in haſte, ſhe went out
+at the back gate of the garden, (having before pro<g ref="char:EOLhyphen"/>vided
+her ſelfe of the key for that occaſion) with
+intent to retire to an houſe of an intimate friend of
+mine, whom we had made acquainted with our af<g ref="char:EOLhyphen"/>faires:
+but ſhe had ſcarce paſt two ſtreets when ſhe
+was ſo ſurpriz'd that ſhee could not ſtirre a ſtep fur<g ref="char:EOLhyphen"/>ther,
+turning aſide into the Porch of the next houſe,
+was there delivered of a Daughter; and ſeeing two
+men paſſe by muffled in their Cloaks, ſhee called
+to them, and delivered them the childe, deſiring
+them, becauſe ſhee was a woman and alone, that
+<pb n="54" facs="tcp:114828:32"/>
+they would doe her the favour to carry it to <hi>Geſi<g ref="char:EOLhyphen"/>menes</hi>
+the Kings ſonne, who would give them a
+better reward then they imagin'd: Their Civilitie
+oblig'd them not to follow her; ſo ſhee return'd
+back to the Court, and within two houres was laid
+againe in her bed, where complaining of a ſuddain
+indiſpoſition, ſhee was attended and ſerv'd as one,
+whom all hop'd ere long to ſee their Queen.</p>
+               <p>But ſo unfortunate was my affection and <hi>Polixe<g ref="char:EOLhyphen"/>na's</hi>
+honour, that one of thoſe to whom ſhee had
+deliver'd the childe was <hi>Lucander</hi> my brother and
+enemy; who deviſing with himſelfe who the Mo<g ref="char:EOLhyphen"/>ther
+of it might be, and ſeeing that <hi>Polixena</hi> fell
+ſick that very night, begun to think it was ſhe; her
+extraordinary affection to mee, making any conje<g ref="char:EOLhyphen"/>cture
+ſeem credible; the childs countenance con<g ref="char:EOLhyphen"/>firm'd
+this ſuſpition, which like a Coppy could not
+deny the originall: Wherefore to revenge his jea<g ref="char:EOLhyphen"/>louſie,
+and to puniſh my boldneſſe, hee reſolv'd to
+tell my Father, and my Wives, (for ſo I muſt call
+her ſo long as I live) what had happened; firſt
+commanding one of his ſervants to cut the child
+in pieces, hee ſent it mee in performance of the
+promiſe he had made the night before. As I was in
+the morning making my ſelfe ready, there came in<g ref="char:EOLhyphen"/>to
+my Chamber a Gentlewoman of great truſt with
+<hi>Lucander,</hi> and a Page bearing in a Baſon the body
+of the little childe, ſo pierced with wounds, that
+the features of the face could hardly bee diſcern<g ref="char:EOLhyphen"/>ed.</p>
+            </q>
+            <p>Thou maiſt imagine <hi>Iſmenia</hi> how I receiv'd
+this Preſent: My heart was inſtantly congeal'd at
+the bold impiety of <hi>Lucander,</hi> I then foreſaw my
+<pb n="55" facs="tcp:114828:32"/>
+misfortune, and mixing a Fathers teares with the yet
+warme bloud, I bath'd the mangled Limbes; diſ<g ref="char:EOLhyphen"/>ſembling
+my paſſion as well as I could, I went to
+ſee him, and asked him the reaſon of ſo ſtrange a
+Preſent, which would have moved feare and pitty
+in the moſt cruell breaſt. My treacherous brother,
+as if he had done me an extraordinary favour, re<g ref="char:EOLhyphen"/>lated
+the ſad accident, and told me his deſigne to
+ruine me, and perſecute the afflicted <hi>Polixena.</hi>
+            </p>
+            <q>
+               <p> It
+is not poſſible (replyed I) hee can bee of noble
+bloud that glories in ſuch baſe attempts. There is
+no reaſon to embolden thee to injure my life and
+ſoule, but the lowneſſe of my condition; if it were
+otherwiſe, I would make thee feele my anger; if
+my love diſpleas'd thee, and thou wert jealous, why
+doſt thou not like a man rather kil me, then revenge
+thy ſelfe on a thing that had neither hands nor
+tongue to defend it ſelfe: But thou art ſo baſe a
+Coward, that thou feareſt mee, though of a deſpi<g ref="char:EOLhyphen"/>cable
+fortune: from henceforward thou ſhalt have
+more cauſe to do ſo: for I will ſurprize thy life
+when thou leaſt ſuſpect'ſt it: But heaven I believe
+not uſing to remit the puniſhment of ſuch wick<g ref="char:EOLhyphen"/>edneſſe
+to the next life, will prevent me in the re<g ref="char:EOLhyphen"/>venge
+of that innocent bloud. <hi>Lucander</hi> knew not
+what to anſwer to ſo juſt an accuſation, but began
+to reproach my birth, ſaying, that his Mother not<g ref="char:EOLhyphen"/>withſtanding
+was free from infamy. And as ſons are
+moſt ſenſible of thoſe injuries, though truths, that
+reflect on their Parents, I was ſo full of paſſion that
+the leaſt occaſion would have tranſported m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e be<g ref="char:EOLhyphen"/>yond
+reaſon, and drawing my Sword I <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="56" facs="tcp:114828:33"/>
+him before he could cry out for help or defend him<g ref="char:EOLhyphen"/>ſelfe,
+and left him wounded, &amp; weltring in his own
+bloud; with this the Court was in a tumult, and
+the news coming to the King my Fathers eare,
+he commanded that they ſhould ſeize on mee, and
+teare me in pieces; but eſcaping from the ſwords of
+thoſe that purſued me, I took horſe and fled into the
+covert of this mountaine, till my enemies had loſt
+ſight of me. After two dayes I arriv'd at this ſolita<g ref="char:EOLhyphen"/>ry
+place, where, to defend my ſelfe from the ſharp<g ref="char:EOLhyphen"/>neſſe
+of the night, I made uſe of the ſhelter of this
+Cave, and being overcome with wearineſſe, I ſlept
+till the day following: So ſoon as the Sun enlight<g ref="char:EOLhyphen"/>ned
+this wood, awaking I ſaw a fierce Lyon lying
+at my feet, who having found mee aſleep, either
+imagining I was dead, or complying with his native
+generoſitie, granted me my life (for there is even in
+the moſt ſavage Beaſts, a kind of naturall pitty) and
+not onely forbare to doe me hurt, but by fawning,
+and other expreſſions of love, ſeem'd to court me.
+Though the ſociety were dangerous, my life being at
+all times in his power: I conſidered that my life was
+without doubt reſerv'd, for ſome extraordinary end,
+ſince heaven had preſerv'd it from ſo many chan<g ref="char:EOLhyphen"/>ces.
+Having found more kindneſſe in a Lyon then
+in a Father or Brother I made much of him, which
+he requites with his uſual bringing me in his mouth
+the prey that he hath kill'd, to ſuſtaine my life, eſtee<g ref="char:EOLhyphen"/>ming
+me rather his companion then enemy. Within
+a yeare I was ſo much maſter of theſe Mountaines,
+Cliffs, and beaſts, that all obey'd mee, like the firſt
+man, and for this reaſon would I not leave this
+<pb n="57" facs="tcp:114828:33"/>
+place; in another I muſt meet my death: for the
+injuries that are done to the powerfull cannot (but
+miraculouſly) eſcape unreveng'd.</p>
+               <p>Inſtead of a Palace I have here a ſecure, though
+poore dwelling; for a guard of ſouldiers two Lions
+to protect me: theſe Hives offer me honey; this ri<g ref="char:EOLhyphen"/>ver
+water; theſe mountaines a ſhady Covert; and
+theſe Trees their wilde fruits: The Beaſts that I kill
+afford me cloathing, the Sea fiſh, and the Woods ve<g ref="char:EOLhyphen"/>niſon:
+This is my life and ſtory; ſo that if thou re<g ref="char:EOLhyphen"/>ſolve
+to continue here, I promiſe to entertaine thee
+with as much care, as if thou wert my deare wife,
+or poore daughter, whoſe face I never ſaw, though
+I once handled it. Thou ſhalt have a freſh and ſweet
+bed made of Ruſhes, Flags, and Thyme; in Win<g ref="char:EOLhyphen"/>ter
+wee will ſhelter our ſelves in the Bowells of this
+Rock, and in ſummer thou ſhalt enjoy the pleaſant
+Weſt winde, underneath the ſhade of theſe Hazell
+Trees: my diſpoſition is gentle, my birth ſuch as
+thou haſt heard, and from this minute I ſweare ne<g ref="char:EOLhyphen"/>ver
+to offend thy chaſtity ſo much as in a thought.
+We will ſpend the morning in praiſing heaven, that
+figuring it ſelfe in all its Creatures hath inrich'd a
+meane Shepherdeſſe with ſuch perfections. The
+Evenings we will viſit this Grove from whence we
+will borrow Bowes for fuell and light: The time
+that wee ſave from ſleep wee will ſpend in relating
+our paſt misfortunes, and by this meanes I may
+beguile my love, imagining that <hi>Polixena</hi> dwells
+with me: for thou ſo nearely reſembleſt her, that
+Heaven ſeemes to have made thy Beauty as a coppy
+of hers.</p>
+            </q>
+            <p>
+               <pb n="58" facs="tcp:114828:34"/>
+Here <hi>Geſimenes</hi> ſtopt (for the remembrance of
+his wife drew teares from his eyes) and <hi>Iſmenia</hi> com<g ref="char:EOLhyphen"/>ming
+to him, comforted him, promiſing not to be a
+minute from his ſide; for beſides that his perſon de<g ref="char:EOLhyphen"/>ſerved
+it, a naturall inclination induc'd her to eſteem,
+and to give him as much reſpect as if he were her Fa<g ref="char:EOLhyphen"/>ther:
+ſo that to divert ſome part of his griefes,
+ſhee took out of her Scrip an inſtrument, and ſung
+thus:</p>
+            <q>
+               <l>
+                  <hi>Narciſſa</hi> paſſing through a pleaſant Mead,</l>
+               <l>To coole her thirſt was to a River led:</l>
+               <l>When ſhe perceiv'd the lazie ſtreame had loſt</l>
+               <l>Its courſe, condens'd to Chriſtall by the Froſt;</l>
+               <l>Which had perhaps enamour'd of her ſight,</l>
+               <l>Begg'd of <hi>December</hi> chains to ſtop its flight;</l>
+               <l>But the kinde Sun did with his warmer beames,</l>
+               <l>Diſſolve the Ice into its native ſtreames:</l>
+               <l>And th' angry little Brook, deny'd by ſtay,</l>
+               <l>Was enjoy'd flying, wept, and went away.</l>
+            </q>
+            <p>The company of <hi>Iſmenia</hi> was an extraordinarie
+comfort to <hi>Geſimenes,</hi> who recreated by her beauty
+and wit paſſed the houres of the day with leſſe anxie<g ref="char:EOLhyphen"/>ty;
+loving each other with ſo true yet chaſte affection
+as they never entertain'd one looſe thought. Thus
+lived they both ſecure and contented, eſpecially <hi>Iſme<g ref="char:EOLhyphen"/>nia,</hi>
+becauſe ſhee was not in love, nor acquainted
+with any cares that might diſquiet her reſt. But ſhe
+could not long boaſt her liberty: for as one after-noon
+ſhe beheld her ſelfe in that Chriſtall Rivolet, when
+the dying Sunne was giving up his languiſhing light,
+<pb n="59" facs="tcp:114828:34"/>
+ſhe ſpied a young Gentleman who wearied in the
+purſute of ſome wilde beaſt, having left his horſe,
+ſlept upon the Flowers, (leaning his cheek on his
+hand) to the ſweet Muſick which the water made,
+playing with the blew pebbles. Having earneſtly be<g ref="char:EOLhyphen"/>held
+him, (for his perſon was warlike, his apparell
+Majeſtick, &amp; his forme Divine;) ſhe would have gone
+away, but could not; for love ſeizeth on free hearts,
+and like a flaſh of lightning ſuddenly ſcorches. In
+briefe, <hi>Iſmenia</hi> found her feet fetter'd, and her ſoule
+inclined to ſtay. Thus ſuffering her ſelfe to bee van<g ref="char:EOLhyphen"/>quiſh'd
+by love, ſhe ſoftly approached him, and draw<g ref="char:EOLhyphen"/>ing
+the ſword that hung in his Scarffe, ſuddenly
+awaked him, bidding him receive it, and acknow<g ref="char:EOLhyphen"/>ledge
+that he owed his life to her, who could ſo ea<g ref="char:EOLhyphen"/>ſily
+have taken it. <hi>Perozes</hi> (for that was his name)
+ſtarting up, and admiring <hi>Iſmenias</hi> exquiſite beau<g ref="char:EOLhyphen"/>ty,
+anſwered,<q> that he could not thank her pitty for
+not giving him death by the ſword, if he muſt re<g ref="char:EOLhyphen"/>ceive
+it from her eyes; that ſhe expreſſed thus more
+cruelty then mercy, for aſleep he ſhould not have
+been ſenſible of the one, but it was impoſſible for
+him waking to eſcape the other.</q> Her habit caus'd
+in him no leſſe wonder then her beauty, wherefore
+he beſought her by entreaties and promiſes to tell
+him the reaſon why ſhe liv'd in that Mountaine, en<g ref="char:EOLhyphen"/>richt
+with perfections that might become a Pa<g ref="char:EOLhyphen"/>lace;
+unleſſe ſhe were ſome new <hi>Diana,</hi> ſome divine
+Huntreſſe, who diſdaining to live amongſt men, re<g ref="char:EOLhyphen"/>ſolved
+to ſpend her time in that wilderneſſe. <hi>Iſmenia</hi>
+reply'd, that ſhe came thither to accompany her Fa<g ref="char:EOLhyphen"/>ther,
+one of a noble birth, and excellent qaalities,
+<pb n="60" facs="tcp:114828:35"/>
+though throwne down by fortune to a low eſtate,
+They were both as much intangled in love as if they
+had convers'd together many yeares, each of them ſo
+delighted with the others company, that <hi>Iſmenia</hi> had
+no power to retire up the Mountaine to <hi>Geſimenes,</hi>
+nor <hi>Perozes</hi> to deſcend to the valley to ſeek his ſer<g ref="char:EOLhyphen"/>vants,
+whom that afternoon hee had loſt in the
+chace: but the diſcreet Shepherdneſſe ſeeing the night
+threaten them, and being farre from home, thus ſpake
+unto him:</p>
+            <q>
+               <p>Sir, I would to heaven, as you have engag'd my
+affection, ſo I had worth to deſerve yours; yet if
+love be begotten by ſympathy of bloud, what I
+have ſeen in your ſuſpence, your eyes and words,
+may at the leaſt bee good will: and that you may
+not thinke I participate of the rudeneſſe of this
+place, I will ſometimes deſcend to this ſeat, where
+you may ſee mee, with this caution, that you offer
+me no injurie: That would be both dishonourable
+and unſafe; For my Father will at my call come
+downe, and to ſecond him a Lion to teare you in
+pieces.</p>
+               <p>It ſeemes (anſwered <hi>Perozes</hi>) you doe not know
+me, ſeeing with ſuch unneceſſary care you inſtruct
+me in a reſpect that I am oblig'd to keep for both our
+ſakes: Yours, becauſe I adore you, and he that loves
+cannot injure; my owne, becauſe my birth is noble,
+which it could not be, if I had a deſire to tyrannize
+over women. When heaven hath cloath'd the night
+with Stars I will come hither with as much humi<g ref="char:EOLhyphen"/>lity
+as love, and adore theſe Flowers, becauſe you
+have trod on them, and this River becauſe it hath
+been your glaſſe.</p>
+            </q>
+            <p>
+               <pb n="61" facs="tcp:114828:35"/>
+With this they tooke leave of each other. The
+affection of <hi>Iſmenia</hi> dayly encreas'd ſo much
+that <hi>Geſimenes</hi> might eaſily have perceived it,
+if hee had ſuſpected there had beene more men
+in the wood to converſe with: nor was <hi>Perozes</hi>
+her debtour; for every houre of the day ſhee was in
+his mind, and the nights he waited in the Mountaine
+expecting her; though ſhe could not come downe
+ſo often as ſhee would; for <hi>Geſimenes</hi> had chid her
+for comming home ſo late, little ſuſpecting love
+to be the cauſe, but rather her eagerneſſe of the
+chaſe.</p>
+            <p>Upon a time ſhee came thither unobſerv'd by <hi>Geſi<g ref="char:EOLhyphen"/>menes,</hi>
+and caſting her eye aſide found in a crimſon
+Taffata a Picture of a faire Lady wrapt up in Paper,
+which ſerv'd for its caſe: this it ſeemes <hi>Perozes</hi> had
+through negligence the night before let fall amongſt
+the Jeſmines: <hi>Iſmenia</hi> perceiving the Inſcription
+was directed to him, moved with the curioſity of a
+jealous woman, read it, and found it ſaid thus:</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Am now come to <hi>Albania,</hi> where I
+live privately, and have ſeen the Prin<g ref="char:EOLhyphen"/>ceſſe,
+whoſe beautie I here ſend you drawn
+in this Tablet, though it be ſo excellent,
+that theſe Colours doe but injure it. May
+I know your pleaſure that I may haſten
+<pb n="62" facs="tcp:114828:36"/>
+my journey, and the contract of theſe hap<g ref="char:EOLhyphen"/>py
+Nuptialls, whereby the warres that
+have long infeſted both Kingdomes may
+have an end.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Iſmenia</hi> would not proceed any further, nor indeed
+could ſhee for jealouſie and anger; a leſſe diſcovery
+might have been ſufficient to have kill'd her: ſhe ac<g ref="char:EOLhyphen"/>cuſed
+her malicious fortune, and much bewailed the
+loſſe of <hi>Perozes,</hi> apprehending ſo many inconveni<g ref="char:EOLhyphen"/>ences,
+that it ſeemed impoſſible he ſhould ever bee
+hers. Firſt, his Birth, and the diſtance between them;
+next, hee was to marry a Princeſſe, enrich'd (as
+the Picture ſhew'd) with extraordinary beauty; but
+hearing ſome body come, ſhe diſſembled her griefe,
+and perceiv'd it was her Enemy, who (as hee came
+along) ſung thus:</p>
+            <q>
+               <lg>
+                  <l>As faire <hi>Iſmenia</hi> forth did goe,</l>
+                  <l>A Saphire ſparkled in each eye,</l>
+                  <l>And on her cheek did Jeſmines grow,</l>
+                  <l>Bath'd in the Roſes Purple dye.</l>
+               </lg>
+               <lg>
+                  <l>But when I nearer came t'have plaid</l>
+                  <l>Within the Sun-ſhine of her light,</l>
+                  <l>She ſcorc'd me, in her beames betraid</l>
+                  <l>Like ſportive flyes to loſſe of ſight.</l>
+               </lg>
+               <lg>
+                  <pb n="63" facs="tcp:114828:36"/>
+                  <l>What feare and reverence doth beget</l>
+                  <l>Th' approach unto ſo bright a flame,</l>
+                  <l>Which can extinguiſh with its heate,</l>
+                  <l>And makes both love and death the ſame!</l>
+               </lg>
+            </q>
+            <p>An injur'd woman is not ſenſible of any thing ſo
+much as of flattery from him that wrongs her; and
+<hi>Iſmenia</hi> confident that <hi>Perozes</hi> love was counterfeit,
+tooke it more unkindly to bee deceiv'd, then unre<g ref="char:EOLhyphen"/>quited;
+for diſaffection may bee naturall, and out of
+our power, but diſſimulation is not, being bred onely
+in malicious breaſts. That <hi>Perozes</hi> might not boaſt he
+had forſaken her firſt, though for the Princeſſe of <hi>Al<g ref="char:EOLhyphen"/>bania,</hi>
+ſhe went to him, and betwixt reaſon and jea<g ref="char:EOLhyphen"/>louſie
+ſaid thus:</p>
+            <q>
+               <p>
+                  <hi>Perozes,</hi> though you ſee mee in this Mountaine,
+ſo rudely attir'd, that my richeſt ornament is the
+ſpotted skin of a Tygreſſe, yet you may well per<g ref="char:EOLhyphen"/>ceive,
+my ſoul hath more worth then my habit pro<g ref="char:EOLhyphen"/>miſeth.
+You ſay you love me ſo infinitely, that
+though you are of the beſt bloud in <hi>Armenia,</hi> yet
+you will hazard both life &amp; fortune to be my Hus<g ref="char:EOLhyphen"/>band;
+and as this expreſſion muſt not either by the
+Laws of Civility or affection be unacknowledged, I
+requited it with the like. But as thoſe that love can<g ref="char:EOLhyphen"/>not
+diſſemble, (for that's a crime) it grieves my af<g ref="char:EOLhyphen"/>fection
+to have hid a ſecret from you. It is impoſſible
+wee ſhould ever enjoy each other. Do not wonder
+that I undeceive you now, whereas I might as well
+have done it before. All women at firſt conceale their
+paſſions, unwilling to diſcover their imperfections
+<pb n="64" facs="tcp:114828:37"/>
+to them they know not; for by open profeſſion of
+love they might beget too ſlight an opinion of
+themſelves; but when we find engagement wee
+have a care to diſcover the truth to ſuch Profeſſors
+of affection, that they may ſee the danger they in<g ref="char:EOLhyphen"/>curre,
+either for avoidance or excuſe. The ſumme of
+all is to let you know I am anothers; he who I told
+you was my Father, is not ſo, but one whom miſ<g ref="char:EOLhyphen"/>fortune
+hath baniſh'd <hi>Albania,</hi> and he has my pro<g ref="char:EOLhyphen"/>miſe
+to be his wife, though in truth he hath yet had
+no other aſſurance then my hand; therefore love
+me leſſe, and containe your ſelfe more: my deſcent
+is noble, and I muſt be his, having once profeſt it;
+for my Obligation cannot be diſcharg'd but by gi<g ref="char:EOLhyphen"/>ving
+my ſelfe unto him, and he is of ſo excellent
+and gallant a mind that he (thinke it not paſſion)
+ſurpaſſeth you.</p>
+            </q>
+            <p>Scarſe had the jealous <hi>Iſmenia</hi> ended, when with<g ref="char:EOLhyphen"/>out
+expecting an anſwer of ſatisfaction, ſhee ran a<g ref="char:EOLhyphen"/>way
+into the more envious part of the Wilderneſſe;
+<hi>Perozes</hi> being unacquainted with the place preſently
+loſt her, expreſſing ſo much paſſion as might have
+mollifi'd a Rock, if it could have heard him; but all
+in vaine; <hi>Iſmenia</hi> would not runne the hazard of re<g ref="char:EOLhyphen"/>lenting
+by hearing what hee could ſay: for the ten<g ref="char:EOLhyphen"/>der
+diſpoſition of women is perſwaded to weepe by
+ſeeing others do ſo: yet was ſhe not without reſent<g ref="char:EOLhyphen"/>ment;
+for, retiring to the remoteſt corner of the
+Cave ſhee wept affectionate teares, and taking out
+the Letter that was directed to her lover, ſhee kiſt
+that name in the ſuperſcription which was engraved
+in her heart. Thus the two Lovers paſſed two dayes
+<pb n="65" facs="tcp:114828:37"/>
+without meeting, not through <hi>Perozes</hi> neglect, but
+<hi>Iſmenia's</hi> obſtinacy, who ſaying late one evening at
+the border of the mountaine to behold a tree, on
+whoſe barke both their names were engraven:
+<q>What availes it (ſaid ſhee complaining to her ſelfe)
+that <hi>Peroſes</hi> writeth himſelfe mine on the trees,
+when the Princeſſe of <hi>Albania</hi> may countermand
+it? what that he flatters mee with ſuch kinde affe<g ref="char:EOLhyphen"/>ction
+in this ſolitude, if at Court he adores a brigh<g ref="char:EOLhyphen"/>ter
+beauty?</q> ſhee would have ſaid more, had ſhee
+not been interrupted by the Muſick of a ſweet voice
+from amongſt the Poplars: though ſhe knew it was
+her ungratefull Lover, yet ſhee was willing to diſ<g ref="char:EOLhyphen"/>pence
+a little with her reſolution, and hearken to
+this Song:</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Iſmenia's</hi> eyes my ſoule divide,</l>
+                  <l>A faire yet hapleſſe Sheperdeſſe,</l>
+                  <l>In whom rich Nature all her pride,</l>
+                  <l>And Fates their poverty expreſſe.</l>
+               </lg>
+               <lg>
+                  <l>To move the ſute I feare to miſſe</l>
+                  <l>Her worth and my reſpect deny;</l>
+                  <l>For where even hope endanger'd is,</l>
+                  <l>Lovers in ſilence uſe to dye.</l>
+               </lg>
+               <lg>
+                  <l>Thus the deſire I entertaine,</l>
+                  <l>Neither ſhuns love, nor ſute preferrs;</l>
+                  <l>For though ſhe to be mine diſdaine,</l>
+                  <l>I'me bleſt enough in being hers.</l>
+               </lg>
+            </q>
+            <p>
+               <pb n="76" facs="tcp:114828:38"/>
+               <hi>Iſmenia</hi> perceiving by the words and voice it was
+<hi>Perozes,</hi> ſought to hide her ſelfe in the buſhes, that
+ſhe might avoid ſight and ſpeech with him; not that
+ſhe was averſe from it, but ſhe would not give occa<g ref="char:EOLhyphen"/>ſion
+to awake that love which ſlumbred in abſence;
+but the ruſhing of the leaves betraid her: <hi>Perozes</hi> told
+her, <q>She had no reaſon (unleſſe ſhe had with her
+habit changed he humanity) to fly from one who
+had not loſt her through any offence of his own:
+But ſince he was ſo unfortunat, that he could not
+be hers, he entreated her to informe her ſelfe by
+that Paper of his extreme paſſion, that ſhe might
+at leaſt know how much ſhe was indebted to him:</q>
+ſo taking leave of her, he left in her hand theſe
+Verſes, which ſhe imprinted as ſhe read them in her
+ſoule.</p>
+            <q>
+               <l>Divineſt Syren, cruell faire;</l>
+               <l>Cauſe of my life, and my deſpaire;</l>
+               <l>Griefe that deſcends to words is weake;</l>
+               <l>But mine is full and cannot ſpeake:</l>
+               <l>For how can Fate more cruell be,</l>
+               <l>Then to grant life, denying thee?</l>
+               <l>Yet I in death hope to adore</l>
+               <l>Thoſe joyes without which life is poore:</l>
+               <l>My reaſon's baniſh'd by my paine;</l>
+               <l>Who can loſe thee, and it retaine?</l>
+               <l>How ſoon was my calme ſoule dejected,</l>
+               <l>And ruine ſuffer'd ere expected!</l>
+               <l>But ſince that bliſſe which once was mine,</l>
+               <l>Thou to another wilt reſigne.</l>
+               <l>
+                  <pb n="67" facs="tcp:114828:38"/>
+Be happy in thy choice; whilſt I</l>
+               <l>In unregarded aſhes lye</l>
+               <l>Be happy in him; 'tis unfit</l>
+               <l>To wiſh thee joy and hinder it.</l>
+               <l>Then finiſh what thou haſt begun,</l>
+               <l>Encreaſe my griefe, and kill me ſoon.</l>
+               <l>And when I'me dead let pitty move thee,</l>
+               <l>But to remember I did love thee.</l>
+            </q>
+            <p>
+               <hi>Iſmenia</hi> relenting would have read them often, had
+ſhee not beene hindred by <hi>Geſimenes,</hi> who comming
+to ſeek her, and glad to have found her, entreated her
+to divert his continuall Melancholy with a Song;
+whereupon, more to obey him then pleaſe her ſelfe,
+(diſſembling her griefe) ſhe ſung thus:</p>
+            <q>
+               <lg>
+                  <l>Why doth that foole unjuſtly love accuſe,</l>
+                  <l>Who through his owne feare did occaſion loſe?</l>
+                  <l>To miſſe an offer'd happineſse muſt be,</l>
+                  <l>Or want of love, or too much modeſty:</l>
+                  <l>Thy ſcorne <hi>Lyſarda</hi> I have juſtly won,</l>
+                  <l>Who wanted light when I embrac'd the Sun.</l>
+               </lg>
+               <lg>
+                  <l>O look into my heart, thou wilt ſee there,</l>
+                  <l>'Twas admiration onely caus'd my feare:</l>
+                  <l>Reſpect curb'd my affection; let me dye,</l>
+                  <l>(diſpleaſing thee) by thy enflaming eye:</l>
+                  <l>Such death will make thy cruelty confeſſe,</l>
+                  <l>I never wanted love, though happineſſe.</l>
+               </lg>
+            </q>
+            <p>When <hi>Iſmenia</hi> had ended her Song, it being late,
+they retired homewards; and as they were going up
+<pb n="68" facs="tcp:114828:39"/>
+the Hill, by a Lane fenced on either ſide with Wil<g ref="char:EOLhyphen"/>lowes
+and white Poplars, they heard a great ſound
+as of ſomething that fell from an high; <hi>Iſmenia</hi> was
+amazed, and <hi>Geſimenes</hi> laid hold of his Bow, think<g ref="char:EOLhyphen"/>ing
+it might be ſome wild beaſt; they ſearched all a<g ref="char:EOLhyphen"/>bout,
+but could not find the cauſe; at laſt they percei<g ref="char:EOLhyphen"/>ved
+a Barke (<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o they were not far from the Sea)
+neare the Shore; it was covered over, and had nei<g ref="char:EOLhyphen"/>ther
+Helme nor Mariner to guide it; <hi>Geſimenes</hi> and
+<hi>Iſmenia</hi> faſtned it to Land, and were deſirous to know
+what was in it; ſcarce were the Sailes and Cover<g ref="char:EOLhyphen"/>ture
+taken off, when ſuch aſtoniſhment ſeiz'd them,
+that for a good ſpace they did nothing but looke on
+each other: within it was a man bathed in bloud,
+and by his ſid a beautiful Lady, living, yet ſo diſmaid,
+that ſhe wanted little of the dead body which lay be<g ref="char:EOLhyphen"/>ſide
+her: They were both afflicted at ſo ſad a ſpe<g ref="char:EOLhyphen"/>ctacle,
+eſpecially <hi>Geſimenes,</hi> who intentively behold<g ref="char:EOLhyphen"/>ing
+the Lady, fancied, he ſaw in her the face and
+perſon of his abſent Wife. He gave the dead body
+buriall in the Sea, ſince there was no meanes to re<g ref="char:EOLhyphen"/>ſtore
+his life: he tooke the Lady in his armes, and
+carried her to the homely Palace of his Cave, where
+he entertain'd her with ſuch care, that in a ſhort time
+he had good hope of her life.</p>
+            <p>When ſhe had recovered ſo much ſtrength as to
+open her eyes, and found on either ſide of her a man
+and woman: At firſt ſhe was afraid of them, though
+their behaviour and hoſpitality had expreſt more pie<g ref="char:EOLhyphen"/>tie
+then her ſevere father and kindred: She wondred
+much that <hi>Geſimenes</hi> ſo conſtantly fixed his eyes up<g ref="char:EOLhyphen"/>on
+her; and hearing <hi>Iſmenia</hi> ſometimes call him
+<pb n="69" facs="tcp:114828:39"/>
+by his name, ſhe ſaid to him. <q>Two things hold mee
+in this ſuſpence, you may do me a favour to inſtruct
+me in them: Is it true that you are called <hi>Geſimenes?</hi>
+Why ſince I opened my eyes have you ſo ſtedfaſtly
+beheld me, often ſighing, and ſometimes weeping?
+you may aske the ſame of mee, becauſe when I firſt
+heard your name, it ſtruck mee to the ſoule; For I
+loved a Gentleman of the ſame name, at the expence
+of ſo many afflictions, that this hazard of my life
+was the leaſt; and ſhould I ſay, that this <hi>Geſimenes</hi>
+(whom I call Husband) was ſon to the King of
+<hi>Albania,</hi> truth would not accuſe me.</q>
+            </p>
+            <p>
+               <hi>Geſimenes</hi> was ſo tranſported with joy, that hee
+could ſcarce expreſſe his mind. <q>If (ſaid hee) I
+am the unfortunate Sonne of <hi>Pharnazes,</hi> and thy
+Husband; if thou art <hi>Polixena,</hi> and my eyes deceive
+me not, how can I behold thee without an extaſie
+of content? how can my heart but breake with the
+apprehenſion of the misfortunes thou haſt ſuffered
+for my ſake? <hi>Polixena,</hi> I am <hi>Geſimenes;</hi> and will be
+thine, till heaven deprive me of this life, which I
+eſteem now I enjoy thy ſight and embraces. Hence<g ref="char:EOLhyphen"/>forward
+I ſhall deſire life, which I thought I ſhould
+never have done: for during the time I have dwelt
+among theſe Rocks, the riſing Sunne never found
+mee not ſuing to heaven to be eaſed of it; for life
+is not a pleaſure, but a torment to the unfortu<g ref="char:EOLhyphen"/>nate.</q>
+            </p>
+            <p>Words are not full enough to expreſſe the con<g ref="char:EOLhyphen"/>tent
+of theſe two Lovers; for language is too narrow
+to cloath great paſſions; ſo that with their eyes and
+ſoules they congratulated their ſtrange and happy
+<pb n="70" facs="tcp:114828:40"/>
+meeting. The beauty of <hi>Iſmenia</hi> and <hi>Geſimenes</hi> care
+of her, might well have given <hi>Polixena</hi> cauſe of jea<g ref="char:EOLhyphen"/>louſie;
+yet when ſhee was informed of the occaſion
+which brought her to live with him, ſhee eſteemed
+her with as much affection as if ſhee had beene her
+owne daughter. Thus being all three equally con<g ref="char:EOLhyphen"/>tented,
+<hi>Geſimenes</hi> deſired her to inſtruct them in the
+afflictions ſhee ſuffered during his abſence: for the
+relation of paſt miſeries in proſperity doth deiight
+more then diſconſolate: wherefore to comply with
+their requeſt, ſhe ſaid:</p>
+            <q>
+               <p>So many, my deare <hi>Geſimenes,</hi> have been the
+troubles that oppreſt me in your abſence, and ſo con<g ref="char:EOLhyphen"/>tinuall,
+that 'tis impoſſible I ſhould either then have
+reſented them, or now relate them fully. I was left
+as your ſurety, to ſatisfie the hurt you did <hi>Lucander;</hi>
+who ſeeing hee could not revenge himſelfe on you,
+reſolv'd to do it on your other ſelfe, divulging my
+weakneſſe, and giving it out that I was delivered
+in his armes: My Father inſtead of puniſhing the
+infamous cruelty he uſed to the innocent Infant, for<g ref="char:EOLhyphen"/>getting
+the relation it had to his bloud, encouraged
+him, and commanded I ſhould bee ſhut up in a
+Tower, where for a long time I neither ſaw the face
+of the Sun, or of any humane creature; untill at
+laſt the King your Father mov'd with pitty, per<g ref="char:EOLhyphen"/>mitted
+one that had been brought up in my Fathers
+houſe to viſit mee, for they repoſed truſt in him.
+With him I recreated the tedious houres of my im<g ref="char:EOLhyphen"/>priſonment,
+relating to him my misfortunes. One
+day hee telling me that you were for certaine in a
+Village neare <hi>Albania,</hi> I earneſtly begg'd of him to
+<pb n="71" facs="tcp:114828:40"/>
+afford mee ſome private meanes of writing to
+you, which he did: Then did I ſigne the death
+of us both; For I writ a Letter, wherein I informed
+you of my ſad condition, and of the great affec<g ref="char:EOLhyphen"/>tion
+of the people to you, who continually pittied
+you as much as they wiſht <hi>Lucanders</hi> death, for
+being poſſeſt of the Crowne, he oppreſt them
+with tyrannicall injuries. I adviſed you to make uſe
+of the protection of ſome other Prince, by whoſe
+aid you might compaſſe your revenge; In the mean
+time, that I would (if it were needfull) poyſon the
+Prince, that the Subjects ſeeing him dead, and hea<g ref="char:EOLhyphen"/>ring
+you were alive, might be neceſſitated to ſeek af<g ref="char:EOLhyphen"/>ter
+you, lawfully to poſſeſſe the Kingdome after the
+deceaſe of <hi>Pharnazes.</hi> Theſe, and other things of im<g ref="char:EOLhyphen"/>portance
+did I write in that unhappy Letter, to eaſe
+my heart, and redreſſe your miſeries; but there is no
+ſucceſſe where Fate oppoſeth; ſo unfortunate were
+<hi>Arneſtes</hi> and I, that as he went from my chamber
+to ſeeke you out, he met <hi>Lucander,</hi> who queſtioned
+him concerning me; whereupon he was ſo con<g ref="char:EOLhyphen"/>founded,
+that your Brother began to ſuſpect ſome<g ref="char:EOLhyphen"/>thing,
+and cauſing him to be apprehended and ſear<g ref="char:EOLhyphen"/>ched,
+found this Letter, by which he confeſt more
+then he knew: this put the Court into a tumult. My
+Father (who would be ſingular in Loyalty, though
+at the expence of my life) executed on me the grea<g ref="char:EOLhyphen"/>teſt
+cruelty the world ever ſaw. He gave order
+for a Barke, ſo cloſed that the aire had no paſsage;
+into which, having kill'd poore <hi>Arneſtes</hi> with many
+wounds, he ſhut him dead, and me alive, to the
+intent that I might with the horrour miſerably end
+<pb n="72" facs="tcp:114828:41"/>
+my life. Then ſetting the Barke a drift, he com<g ref="char:EOLhyphen"/>mitted
+us to the mercy of the waves, pitied of as ma<g ref="char:EOLhyphen"/>ny
+as beheld us. Thus we floated until heaven (mov'd
+with my prayers and teares) was pleas'd to caſt me
+on this ſhore, where your care hath brought me once
+more into the light, and reſtored that happineſſe
+which from my infancy I deſir'd, though it hath coſt
+me ſo deare.</p>
+            </q>
+            <p>
+               <hi>Iſmenia</hi> and <hi>Geſimenes</hi> congratulated <hi>Polixena's</hi>
+good fortune; for though it were Eclips'd with trou<g ref="char:EOLhyphen"/>bles
+and diſcontents, yet the event being happy
+it cannot be called adverſe. Thus lived <hi>Geſimenes</hi>
+with his wife more contented then if he had been
+Lord of the whole world, enjoying her beauty and
+company without feare or interruption, endearing
+to himſelfe that bleſſing which heaven after ſo many
+yeares of affliction had reſerv'd for him. <hi>Iſmenia</hi>
+and <hi>Perozes</hi> paſt the time with leſſe delight, complain<g ref="char:EOLhyphen"/>ing
+each of the others affection; ſhe as thinking he
+was contracted to another, and he as having the ſame
+opinion of her: But <hi>Iſmenia</hi> weary of concealing
+her jealouſie, was unwilling that <hi>Perozes</hi> ſhould ac<g ref="char:EOLhyphen"/>cuſe
+her of inconſtancy, when ſhe had juſt cauſe to
+condemne him: wherefore ſhe found him out a<g ref="char:EOLhyphen"/>mongſt
+the Lawrels and Jeſmines, and ſhewed him
+the Pictnre and Letter: She told him, <q>That the rea<g ref="char:EOLhyphen"/>ſon
+why ſhe had belied her own affection and con<g ref="char:EOLhyphen"/>ſtancy,
+was not that ſhe lov'd any elſe, but that ſhe
+was of opinion he was anothers; that thoſe two
+witneſses would prove it &amp; that he could not won<g ref="char:EOLhyphen"/>der
+at her cruelty, ſince his falſehood and ill requi<g ref="char:EOLhyphen"/>tall
+deſerved it.</q>
+            </p>
+            <q>
+               <p>
+                  <pb n="73" facs="tcp:114828:41"/>
+I confeſs (faire <hi>Iſmenia</hi>) replyed <hi>Perozes,</hi> that be<g ref="char:EOLhyphen"/>fore
+I ſaw you, I treated of a marriage with the Prin<g ref="char:EOLhyphen"/>ceſſe
+of <hi>Albania;</hi> but I aſſure you, after I beheld your
+divine beauty, and beleeved that I had obtained ſome
+place in your affection, I alterd my reſolution
+(though to the diſcontent of my Father and his Sub<g ref="char:EOLhyphen"/>jects,
+who earneſtly deſire the accompliſhment of that
+match, to put an end to the wars between the two
+kingdoms) To comply with your affection, I engage
+my faith never to marry as long as I live, unleſſe
+with you; nor ſhall you be, (if the ſtories ſay true) the
+firſt Queen that was bred up amongſt Woods and
+Rocks; but be ſure that he, whom you call your Fa<g ref="char:EOLhyphen"/>ther,
+be ſo indeed; for if you deceive me, and he prove
+a Lover, I will ſo revenge my ſelfe on both, that my
+love ſhall wonder at my ſeverity.</p>
+            </q>
+            <p>
+               <hi>Iſmenia</hi> was ſo well ſatisfied and pleas'd with <hi>Pe<g ref="char:EOLhyphen"/>rozes</hi>
+promiſe, that to confirme what ſhee had ſaid,
+ſhe plac'd him ſo, that he might ſee <hi>Geſimenes</hi> in his
+Wives armes; and as Lovers ſeldome conceale
+any thing from one another, notwithſtanding ſhe
+had told him that he was her Father, ſhee re<g ref="char:EOLhyphen"/>lated
+to him their true ſtory; to which <hi>Perozes</hi>
+hearken'd with much content, ſeeing how nobly his
+beloved <hi>Iſmenia</hi> was deſcended if <hi>Geſimenes</hi> and <hi>Po<g ref="char:EOLhyphen"/>lixena</hi>
+were her Parents, for then ſhe was Neece
+to the King of <hi>Albania,</hi> a good reaſon to excuſe his
+unadviſed love, ſince he married, though not the Prin<g ref="char:EOLhyphen"/>ceſs,
+yet one of her bloud. With theſe joyful hopes <hi>Pe<g ref="char:EOLhyphen"/>rozes</hi>
+took his leave, but <hi>Iſmenia</hi> was troubled when
+ſhe conſidered that ſhe had done ill to feigne her ſelfe
+the daughter of <hi>Geſimenes,</hi> knowing how eaſie it
+<pb n="74" facs="tcp:114828:42"/>
+was to diſprove it: for though her affection and re<g ref="char:EOLhyphen"/>ſemblance
+made it probable, yet ſhe was conſcious
+that their births were extremely different.</p>
+            <p>
+               <hi>Perozes,</hi> devoting himſelf wholly to the affection of
+<hi>Iſmenia,</hi> and reſolving to marry her, refus'd the match
+with the Princeſſe of <hi>Albania,</hi> and ſent to give
+<hi>Pharnazes</hi> notice he was already married, who was
+ſenſible of this affront, believing that this neglect was
+in contempt of his alliance; and without expecting
+either Letters or Ambaſſadors, with his Son <hi>Lucan<g ref="char:EOLhyphen"/>der</hi>
+he raiſed a great Army, binding themſelves by a
+ſolemne Oath not to return to <hi>Albania,</hi> till they had
+either taken or ſlaine <hi>Perozes.</hi>
+            </p>
+            <p>On the other ſide <hi>Perozes</hi> was not negligent;
+for having notice of the intention of <hi>Pharnazes,</hi> he
+deſired of his Father a Commiſſion for that Warre,
+and leavied ſufficient forces to reſiſt the proud <hi>Alba<g ref="char:EOLhyphen"/>nians.</hi>
+Meane while, viſiting <hi>Iſmenia,</hi> he deſired her
+to perſwade her Father <hi>Geſimenes</hi> (who was a great
+Souldier) to command his Army; as well to protect
+the cauſe which was his owne, being his daughters,
+as to revenge himſelfe upon <hi>Lucander,</hi> who now came
+inſolently with <hi>Pharnazes;</hi> beſides the <hi>Albanians</hi>
+might hereby know he was alive, and had power to
+oppoſe them. <hi>Iſmenia</hi> was much perplext to fore<g ref="char:EOLhyphen"/>ſee
+her impoſture would be ſoone diſcovered; but
+committing all to time and fortune, ſhe determined
+to ſpeake to <hi>Geſimenes,</hi> and thereupon informed him
+of the Princes affection, the occaſion of the Warre,
+and the opportunity which heaven hath offer'd him
+to returne from that miſerable kind of life to his firſt
+eſtate.</p>
+            <p>
+               <pb n="75" facs="tcp:114828:42"/>
+               <hi>Geſimenes</hi> diſliked not the meanes which <hi>Iſmenia</hi>
+in <hi>Perozes</hi> name offered for obtaining the deſired
+end of his affaires. Hee was willing to ſerve him;
+but not therby to injure his father: a relation (though
+hee were ungratefull) not to bee diſpenc'd with. His
+hope was to bee the inſtrument of peace, and of the
+death of his treacherous brother, upon whoſe death
+he might returne to <hi>Albania</hi> and enjoy the Crowne.
+<hi>Iſmenia</hi> told him, that it would be requiſite for ſome
+time to acknowledge her for his daughter. <hi>Geſime<g ref="char:EOLhyphen"/>nes</hi>
+reply'd, that he ſhould not onely for a time, but
+as long as he lived eſteeme her ſo: For the love he bare
+her, and the reſemblance ſhee had to <hi>Polixena</hi> was
+ſuch, that if her Parentage had not been very meane,
+it would eaſily have bin credited. <hi>Iſmenia</hi> brought him
+to <hi>Perozes,</hi> the two Princes convers'd together with
+great expreſſions of affection. <hi>Perozes</hi> wondred to
+behold him ſo alter'd and different from what he had
+known him before; and enquiring after <hi>Polixena,</hi> he
+intreated him to bring her along that ſhe might beare
+his ſiſter company. They were honourably received
+by the Nobility and commons of that Kingdome,
+with reſpect due to perſons of ſuch eminence. The
+King conferred the Generalls Staffe on <hi>Geſimenes,</hi>
+who changing his Habit, appear'd ſo gracefull and
+majeſtick, that they could hardly perſwade them<g ref="char:EOLhyphen"/>ſelves
+hee was the ſame whom the day before they
+had ſeen in that wilde ſhape: ſo much do ornaments
+adde to exteriour Beauty.</p>
+            <p>By this time the proud <hi>Albanians</hi> were come ſo
+neare, that the mountaines reſounded with the eccho
+<pb n="76" facs="tcp:114828:43"/>
+of their Warlike inſtruments: At night <hi>Geſimenes</hi>
+went out in his old habit, to eſpy in the Campe with
+what force his father came; he was ſo well acquaint<g ref="char:EOLhyphen"/>ed
+with that place that hee feared not to loſe him<g ref="char:EOLhyphen"/>ſelfe,
+and wearing ſo ſtrange a habit it was impro<g ref="char:EOLhyphen"/>bable
+they ſhould ſuſpect him. One night as he went
+downe from his Cave to the bottome of the Hill,
+with intent to returne to the Court, hee heard ſome
+not farre off conſulting privately together; with<g ref="char:EOLhyphen"/>drawing
+himſelfe behinde a tuft of Oakes and Pines,
+hee beheld from them thence a young man in Ar<g ref="char:EOLhyphen"/>mour,
+whom all the reſt ſeemed to reſpect and ho<g ref="char:EOLhyphen"/>nour
+as their Maſter; <hi>Geſimenes</hi> by reaſon of the
+darkneſſe of the night could not diſcern who he was,
+but he gather'd that from his words, which ſufficient<g ref="char:EOLhyphen"/>ly
+troubled him, for he was ſpeaking to them to this
+effect:</p>
+            <q>
+               <p>Though here are but a few that heare mee, yet
+I may well ſay here is the greateſt part of the Nobi<g ref="char:EOLhyphen"/>lity
+of <hi>Albania;</hi> for there is not any one can equall
+<hi>Lucander,</hi> or ſtand in competition with you. I
+am as you know, the Kings onely ſonne: for
+though I lately had a Brother, I believe either the
+Sea or Land by this time hath hid him in its Bow<g ref="char:EOLhyphen"/>ells;
+or if he were alive, yet being a Baſtard, hee
+could not oppoſe me the lawfull Heire; nor hath
+he the right I have. My Father is old, and uſeth
+both you and mee too harſhly. Indeed I am ſorry
+he hath liv'd thus long: It troubles me to be a Sub<g ref="char:EOLhyphen"/>ject,
+being now fit for government, which ſo long
+as he lives I cannot enjoy. I have at other times
+<pb n="77" facs="tcp:114828:43"/>
+adviſed with you about this buſineſs. The cauſe that
+mov'd me now to call you together is an opportu<g ref="char:EOLhyphen"/>nity
+of effecting this deſigne, which offers it ſelfe
+unto you. My Father is ſo induſtriouſly carefull in
+this War, that though his years diſſwade him, he
+often goeth forth alone to view both his own Camp
+and the enemies. This night I eſpied him; and if I
+miſtake not, he is now comming along that Path, ſo
+that if you pleaſe now to follow me, we may this
+very inſtant aſſault and kill him; and we will teare
+his garments, that it may be thought the wild
+Beaſts of theſe mountaines were his Murderers. The
+Souldiers then being deſtitute of a King, muſt of ne<g ref="char:EOLhyphen"/>ceſſity
+transfer the Crown on me; of which when
+I am poſſeſt, and the Scepter in my hand, I will by
+degrees deſtroy all that favour'd <hi>Geſimenes.</hi> You ſhall
+not be my Subjects but my friends, my companions,
+on whoſe Shoulders I will lay the weight and care of
+the whole Kingdom.</p>
+            </q>
+            <p>The Piety of <hi>Geſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>menes</hi> could ſcarce believe the vil<g ref="char:EOLhyphen"/>lany
+which <hi>Lucander</hi> intended againſt him to whom
+he owed his being: but giving thanks to heaven for
+the favourable opportunity of preſerving his Fathers
+life, hee went that way by which <hi>Lucander</hi> ſaid hee
+was to paſſe. He had not gone farre when hee found
+him compleatly arm'd, going about to informe him<g ref="char:EOLhyphen"/>ſelf
+of the ſtate of the Camp, who ſeeing him drew his
+ſword, thinking he was a wild man, &amp; aſſaulted him
+to kil him: But <hi>Geſimenies</hi> in token of peace throwing
+down the young Tree which he had in his hand, told
+<pb n="78" facs="tcp:114828:44"/>
+him that he might ſee he was a man as himſelfe, that
+he came to adviſe him, not to go that way, becauſe
+his ſonne with ſome of his Subjects, who it ſeemes
+would be advantaged by his death, lay in wait to kill
+him.</p>
+            <q>
+               <p>If thou doſt think, ſaid <hi>Pharnazes,</hi> by this deceit
+to injure me, know thou art mistaken, for at my call
+twenty thouſand men that I have in the field will
+come forth, againſt whom neither thy ſwift<g ref="char:EOLhyphen"/>neſſe
+nor ſtrength can availe thee; beſides I am
+able to defend my ſelfe not onely againſt thee (who
+art a poore conqueſt) but againſt as many wilde
+Beaſts as this Deſert nouriſhes.</p>
+               <p>That you may be aſſured, (replyed <hi>Geſimenes</hi>)
+I neither deceive, nor deſire to injure you, go down
+by this little hill, &amp; you will ſee to whoſe truſt you
+commit your ſelfe: be confident I would not ſuffer
+you to paſſe any further, or conſent you ſhould put
+your ſelfe into ſo imminent danger, were I not cer<g ref="char:EOLhyphen"/>taine
+my owne ſtrength could ſufficiently, defend
+you: Believe your ſelfe ſecure in my faith, for I
+love you more then you imagine, though not out
+of obligation, for you have uſed me with ſeverity, of
+which ſome other occaſion ſhall informe you, if my
+unfortunate ſtars permit.</p>
+            </q>
+            <p>
+               <hi>Pharnazes</hi> was amazed at this Speech, and was the
+ſooner enclined to credit it, when he cald to mind the
+ill diſpoſition of <hi>Lucander,</hi> and ſome others that hee
+convers'd with: he was unwilliug to returne to his
+Tent before he had ſatisfied himſelfe; wherefore hee
+deſcended the bottome of the Hill, and <hi>Geſimenes</hi>
+               <pb n="79" facs="tcp:114828:44"/>
+after him, earneſtly deſiring the Traitors would ſally
+forth, that he might have an occaſion to oblige his
+Father, and be reveng'd for all the injuries had been
+done him. <hi>Lucander,</hi> ſo ſoon as <hi>Pharnazes</hi> came
+neare, gave notice to the reſt and aſſaulted him, crying,
+Kill the Tyrant of <hi>Albania. Pharnazes</hi> called to <hi>Ge<g ref="char:EOLhyphen"/>ſimenes</hi>
+to performe the promiſe, and protect his life.
+He needed not much entreaty, for as ſoon as he ſaw
+the ambuſh appeare, he came up to him, and ſo laid
+about him on every ſide with the young Oake, that
+hee diſperſed them, and if any oppoſ'd him,
+he paid for his boldneſſe, by meaſuring his length
+upon the ground. <hi>Lucander</hi> adventured, for the de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence
+of one blow to truſt to his Buckler, thinking to
+get in with his ſword; but with ſuch fury did <hi>Ge<g ref="char:EOLhyphen"/>ſimenes</hi>
+let fall upon his enemie, that he felled him to
+the ground: The aſſiſtant Conſpirators afrighted at
+his fall, left him and ran away: <hi>Pharnazes</hi> leading a<g ref="char:EOLhyphen"/>way
+<hi>Lucander,</hi> ſent him to priſon, but concealed the
+cauſe, fearing the ſouldiers might mutiny: Then be<g ref="char:EOLhyphen"/>ing
+alone with <hi>Geſimenes,</hi> entreated him to let him
+know who he was to whom he owed life. <hi>Geſime<g ref="char:EOLhyphen"/>nes</hi>
+yet unwilling to be known, anſwered, he was the
+ſon of that mountain; but the reaſon which oblig'd
+him to his defence with ſuch earneſtneſſe was the
+intimate friendſhip he once had with one called <hi>Geſi<g ref="char:EOLhyphen"/>menes,</hi>
+who profeſt himſelfe his unfortunate Son.</p>
+            <p>
+               <q>Alas, ſaid <hi>Pharnazes,</hi> drowning his face in teares,
+had he liv'd, this Traitor <hi>Lucander</hi> durſt not have
+attempted ſo impious a Treaſon.</q> 
+               <q>He not only lives
+(anſwered <hi>Geſimenes</hi>) but ere many daies paſſe, I
+<pb n="80" facs="tcp:114828:45"/>
+ſhall be able to let you ſee him, as obedient ſtill, as
+you had never us'd him unkindly.</q> 
+               <q>Then believe if
+me, (replyed <hi>Pharnazes</hi>) that very inſtant will I ſet
+the Crowne of <hi>Albania</hi> upon his head; the Kingdome
+will not be ſorrie for it: though they think he be
+not heire while <hi>Lucander</hi> lives, yet there is more in
+this then they know. You are his friend, and will
+rejoyce at his happineſſe: that therefore you may
+ſeeke him with greater diligence, bee attentive and
+and heare what a low condition his Fate decreed
+him, even before he was borne. </q>
+               <hi>Geſimenes</hi> with won<g ref="char:EOLhyphen"/>der
+obſerved what his Father ſaid, and giving him
+time to wipe away the teares of his affliction, heard
+him proceede in this manner:</p>
+            <q>
+               <p>Know that in my youth I lov'd a Lady, with ſo
+unreaſonable an affection, that I forgot both Heaven
+and my ſelfe for her: This blind paſſion arriv'd at
+ſuch a height, that the Queene and ſhe, beeing at once
+both with child, and delivered of two Sons both in
+one day, to make a tranſcendent expreſſion of my
+love to her, I caus'd the children to be chang'd, un<g ref="char:EOLhyphen"/>knowne
+to any except heaven, and one who was my
+Favorite. By this meanes <hi>Lucander,</hi> the ſonne of
+my Miſtriſſe (ſuppoz'd the Queens) was eſteem'd
+heire of the Kingdome, and I had a better pretence
+for my affection. <hi>Geſimenes,</hi> who was indeed my
+lawfull Son, had <hi>Clorinda</hi> (the Lady I moſt eſteem'd)
+aſſign'd for his mother. The whole Kingdome won<g ref="char:EOLhyphen"/>dered
+I ſhould hate <hi>Geſimenes,</hi> the ſon of her I ado<g ref="char:EOLhyphen"/>red;
+and eſteeme <hi>Lucander</hi> whoſe mother I hated
+I will not relate how cruelly I us'd <hi>Geſimenes,</hi> i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="81" facs="tcp:114828:45"/>
+cannot but grieve you to heare it, if you love him:
+my diſaffection proceeded ſo farre, as to baniſh him
+<hi>Albania:</hi> If hee bee alive (as we had newes of his
+death) he hath lived many yeares miſerably abroad
+in ſtrange Countries. But the nature of man is un<g ref="char:EOLhyphen"/>conſtant,
+the love I beare <hi>Clorinda</hi> vaniſh't, and my
+undeceived underſtanding, perceiv'd its errour; then
+began I ſo much to diſlike <hi>Lucander,</hi> that I intended
+to have diſcovered his Birth; but I forbore, conſide<g ref="char:EOLhyphen"/>ring
+the Crowne would be without an heire, ſeeing
+<hi>Geſimenes</hi> was wanting. But ſince <hi>Lucander</hi> proves ſo
+ungratefull, as by treaſon to deprive me of life and
+Scepter, &amp; you aſſure me <hi>Geſimenes</hi> lives; if you per<g ref="char:EOLhyphen"/>forme
+your promiſe in bringing him, you ſhall ſee
+him King of <hi>Albania,</hi> that hee may have his owne,
+and you in part be paid the debt is owing you for
+my life: His happineſſe cannot but reflect on you
+who are ſo much his friend.</p>
+            </q>
+            <p>
+               <hi>Geſimenes</hi> was not able to containe his joy, but
+falling downe at his Fathers feet diſcovered himſelfe,
+ſaying he was <hi>Geſimenes,</hi> and that he was well con<g ref="char:EOLhyphen"/>tent
+with the miſeries Fortune had inflicted on him,
+ſince he had been baniſht from his ſight; Now ſhee
+had beſtow'd on him the happineſſe to reſcue his gray
+haires. <hi>Pharnazes</hi> tranſported with ſuch joy to
+ſee him alive, as the ſtrangeneſſe of the accident re<g ref="char:EOLhyphen"/>quired,
+embraced him moſt affectionately, and told
+him that he ſhould goe along with him, for on the
+morrow his Commanders ſhould kiſſe his hand, and
+his preſence would animate the Souldiers, for they
+all loved him extremely, and knowing his valour
+would undertake the warre, with the greater reſo<g ref="char:EOLhyphen"/>lution.
+<pb n="82" facs="tcp:114828:46"/>
+In this <hi>Geſimenes</hi> could not obey, excuſing
+himſelfe with the acknowledgement of many favours
+received from <hi>Perozes,</hi> of whoſe Forces he was Ge<g ref="char:EOLhyphen"/>nerall,
+yet that he had taken Armes againſt his Fa<g ref="char:EOLhyphen"/>ther,
+was not to offend him (as he had ſhewne) but
+to be a meanes of peace between both Kingdomes.
+<hi>Geſimenes</hi> at parting enquired of him for his Wife
+<hi>Polixena;</hi> he much troubled, deſired him not to ſpeak
+of her; for it would afflict his heart to remember
+the cruelty which her Father and <hi>Lucander</hi> had uſ'd
+in her death.</p>
+            <p>Let it not grieve you ſo much, ſaid <hi>Geſimenes,</hi> For
+ſhe is living; and although it may ſeeme impoſſible, I
+have long enjoy'd her company in this Deſart, for
+Heaven doth favour innocence, and protect thoſe
+Lives which Power and Fortune doe unjuſtly perſe<g ref="char:EOLhyphen"/>cute.</p>
+            <p>Hereupon <hi>Geſimenes</hi> departed joyfully: And <hi>Phar<g ref="char:EOLhyphen"/>nazes</hi>
+was no leſſe glad for having found his ſon, and
+with him his owne life, which had that night been
+loſt, had it not been preſerved by <hi>Geſimenes.</hi> Then
+communicating this ſtrange event to his Counſell, he
+determined to treat with the King of <hi>Armenia,</hi> and
+Prince <hi>Perezes</hi> concerning Peace, and the former
+Marriage. The evening following a place of meeting
+was appointed for the two Kings. The firſt thing they
+did was the proclaming of <hi>Geſimenes</hi> King of <hi>Al<g ref="char:EOLhyphen"/>bania,</hi>
+and the ſame day <hi>Polixena</hi> was confirm'd his
+Wife; the King and Queen of <hi>Armenia</hi> offering
+themſelves to give her at the Temple. <hi>Perozes</hi> told
+<hi>Pharnazes</hi> that the reaſon why he rejected the pro<g ref="char:EOLhyphen"/>pounded
+Marriage with the Princeſſe, was becauſe he
+<pb n="83" facs="tcp:114828:46"/>
+was already married to <hi>Iſmenia,</hi> who was Niece to
+him, and Daughter to <hi>Geſimenes</hi> and <hi>Polixena.</hi> Here<g ref="char:EOLhyphen"/>upon,
+they both to informe him of the truth, replyed
+that they had no further knowledge of her, then that
+ſhe had been brought up ſome years in their compa<g ref="char:EOLhyphen"/>ny;
+that the buſineſſe was now of ſuch conſequence,
+that it would be unjuſt to deceive him; and though
+they had reaſon to love <hi>Iſmenia</hi> as well as if ſhe were
+their Daughter, yet in truth ſhe was but of poore and
+meane Parentage.</p>
+            <p>This ſtruck <hi>Perozes,</hi> as if he had heard the ſen<g ref="char:EOLhyphen"/>tence
+of his death, but it troubled him more, when
+he underſtood <hi>Iſmenia</hi> could not be found; for ſeeing
+a neceſſitie that her deceit muſt bee diſcovered, and
+that ſhe muſt loſe <hi>Perozes,</hi> ſhame would not ſuffer
+her to appeare; ſo ſhe retired into the woods, flying
+from him ſhe loved, and intending to end her life in
+that ſolitude. The Nuptialls were deferred till they
+might have news of the loſt <hi>Iſmenia;</hi> for the mar<g ref="char:EOLhyphen"/>ried
+couple were ſo diſcontented at her abſence that
+their reſentment gave occaſion to many to ſuſpect ſhe
+was indeed their Daughter, and that they denyed it
+onely becauſe they were unwilling to give her to <hi>Pe<g ref="char:EOLhyphen"/>rozes:</hi>
+The truth was, they lov'd her ſo extremely,
+that if <hi>Geſimenes</hi> had not known <hi>Iſmenias</hi> Parents
+might have contradicted it, he would have owned her.
+<hi>Perozes</hi> in great paſſion offered a great ſumme of
+money to any that ſhould bring newes of her. <hi>Ge<g ref="char:EOLhyphen"/>ſimenes</hi>
+calling to minde that ſhee had often told him
+the place where ſhe was borne, inſtantly diſpatched
+Meſſengers to informe themſelves with all diligence
+of her Parents, and to ſee whether ſhee were not re<g ref="char:EOLhyphen"/>turn'd
+<pb n="84" facs="tcp:114828:47"/>
+to them: After enquirie they found them, and
+upon examination they confeſſed, <q>That <hi>Iſmenia</hi>
+was not their Daughter, thought they had profeſſed
+her ſuch almoſt ever ſince ſhee was borne; that a
+Gentleman of <hi>Albania</hi> named <hi>Artaſpes</hi> one night
+brought her to their houſe, to be brough up by them,
+charging them upon forfeit of their lives, not to re<g ref="char:EOLhyphen"/>veale
+the ſecret to any; that three yeares agoe having
+a deſire to match her with a Kinſman of theirs, on
+the day intended for marriage ſhe ſtole away, ſince
+which time they could never know whether ſhee
+were alive or dead.</q>
+            </p>
+            <p>This encreaſed the admiration of all; ſeeing <hi>Ar<g ref="char:EOLhyphen"/>taſpes</hi>
+had brought her thither, they ſuppoſed ſhee
+muſt bee his: He being at that time in <hi>Albania,</hi> they
+ſent for him to declare what he knew concerning <hi>Iſ<g ref="char:EOLhyphen"/>menia:</hi>
+Being come hee deſired a little privacy with
+<hi>Geſimenes,</hi> and thus ſpake unto him.</p>
+            <q>
+               <p>What I ſhall affirme of her that you call <hi>Iſmenia,</hi>
+concernes none ſo much as your ſelfe to know; not
+to keepe you in ſuſpence; Prince <hi>Lucander</hi> and my
+ſelfe, walking late one night in the City, as wee
+were returning to the Palace, a woman with her
+Face vailed called to us, and addreſſing her
+ſelfe to <hi>Lucander,</hi> hee ask'd her, (being well nigh
+dead) if ſhe would goe along with him, or that hee
+ſhould doe her any ſervice I would beſeech you (an<g ref="char:EOLhyphen"/>ſwered
+the Lady, delivering a Childe into his
+armes) to carry this infant to <hi>Geſimenes,</hi> who will
+<pb n="85" facs="tcp:114828:47"/>
+eaſily know from whence it comes: and (believe
+me) we may both be able to requite this favour: ſo
+giving it to <hi>Lucander,</hi> (whom if ſhee had knowne
+ſhe would ſooner have given it to a Lyon) ſhe went
+away, deſiring us not to follow her, becauſe it con<g ref="char:EOLhyphen"/>cern'd
+both her life and honour: We both ſtood a<g ref="char:EOLhyphen"/>mazed,
+deviſing who this Lady might be; for know<g ref="char:EOLhyphen"/>ing
+how intirely you did love <hi>Polixena,</hi> wee could
+not perſwade our ſelves, that you ſhould have any
+other affection, and <hi>Polixena</hi> living ſo carefully
+watched, we as little ſuſpected it could be ſhe. In the
+end we carried the child to my houſe, &amp; he gave me
+order to deliver it to a Nurſe; the next day he under
+ſtood <hi>Polixenas</hi> ſudden ſicknes, &amp; viewing the childs
+countenance, was fully perſwaded it was hers and
+yours. The rage of his jelouſie was incited by cru<g ref="char:EOLhyphen"/>elty,
+and relying on his power he commanded me to
+bring it that he might kill it, and performe the pro<g ref="char:EOLhyphen"/>miſe
+he had made to ſend it you; when I underſtood
+this unjuſt intent, I was as much perplexed as if the
+Child had beene mine owne, ſo divine was the
+beauty of it. I was (to ſay truth) afraid: if I obey'd
+him not I loſt his favour, (for Princes for one diſ<g ref="char:EOLhyphen"/>pleaſure
+forget the ſervices of our whole life) and
+to obey him was contrarie to my piety: at laſt I re<g ref="char:EOLhyphen"/>ſolved
+to bring it to him, not to diſpleaſe him; but
+as I was going to this bloudy Sacrifice heaven ſee<g ref="char:EOLhyphen"/>med
+to applaud my compaſſion, offering mee an
+opportunity to ſave it: for underſtanding that a ſer<g ref="char:EOLhyphen"/>vant
+of mine had a child borne two dayes before,
+newly dead, I tooke it; and wounding the innocent
+breaſt, beſmeared it with the congealed blood, and
+<pb n="86" facs="tcp:114828:48"/>
+carried it to <hi>Lucander,</hi> who thinking it had beene
+that which cauſed his jealouſie, commended my cru<g ref="char:EOLhyphen"/>eltie,
+and perfected his furious revenge on it, tearing
+in pieces the poore Infant, and thus was it ſent to
+you, the more to afflict you, that the grief of ſeeing
+it might kill you: Hereupon enſued the misfortunes
+that you know; when night was come I departed
+privatly from <hi>Albania,</hi> and in a private place en<g ref="char:EOLhyphen"/>quired
+for a Nurſe with whom I left the Child, tel<g ref="char:EOLhyphen"/>ling
+her it was requiſite, that it ſhould not be known
+that I brought it to her, and giving her two hun<g ref="char:EOLhyphen"/>dred
+Crownes, I took my leave of her; ſince which
+time, leſt <hi>Lucander</hi> might come to know it, I
+never ſaw her but twice; This is all I know con<g ref="char:EOLhyphen"/>cerning
+<hi>Iſmenia.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Geſimenes</hi> amazed to heare theſe things, doubted
+whether the prodigie of his owne ſtorie and <hi>Iſmenia's</hi>
+life were a Dream, or true: for according to the Re<g ref="char:EOLhyphen"/>lation
+of <hi>Artaſpes</hi> ſhe was his Daughter: And her
+face had been ſufficient to prove it, if there had been
+no other teſtimony. He flung his Armes about <hi>Artaſ<g ref="char:EOLhyphen"/>pes</hi>
+neck, and promiſed him ſuch requitall, that hee
+ſhould not repent his curteſie. He preſently related
+all to <hi>Pharnazes, Perozes,</hi> and <hi>Polixena,</hi> and as great
+was the joy of all, as their grief that <hi>Iſmenia</hi> was miſ<g ref="char:EOLhyphen"/>ſing.
+They went to ſeek her, <hi>Geſimenes</hi> as her Father,
+<hi>Perozes</hi> as her Husband: <hi>Geſimenes</hi> went to the Hill
+where he had formerly lived with her, &amp; at the ſide
+of a Wood, he ſaw a man lying a long upon the gras:
+comming neare, and asking what hee did there, hee
+anſwered, he was a poore Souldier, that hearing a
+Proclamation, promiſing ten thouſand Crownes to
+<pb n="87" facs="tcp:114828:48"/>
+him that ſhould finde <hi>Iſmenia,</hi> out of a deſire to better
+his Fortune he went to ſeeke her, and was not out of
+hope to finde her, becauſe he had the ſame day ſeene
+a woman on the top of the mountaine, cloathed with
+skins of wild beaſts, whom hee ſuſpected to be <hi>Iſme<g ref="char:EOLhyphen"/>nia;</hi>
+for as ſoone as ſhe heard that name, ſhe made a<g ref="char:EOLhyphen"/>way
+ſo faſt, that it was impoſſible for him to overtake
+her.</p>
+            <p>
+               <hi>Geſimenes</hi> rewarded the Souldier for his informati<g ref="char:EOLhyphen"/>on,
+and both aſcending the mountaine, they reſted
+not untill they came to a Spring dreſt up with Ruſhes
+and Flags, where under a Cypreſſe Tree they found
+her aſleepe. <hi>Geſimenes</hi> related to his Daughter her
+happie birth; at which ſhe rejoyced more for being
+worthy of <hi>Perozes,</hi> then for being daughter to the
+Prince of <hi>Albania.</hi> Returning to Court, ſhe accknow<g ref="char:EOLhyphen"/>ledged
+thoſe for her Parents whom ſhe ever lov'd, as
+if ſhe had knowne them to be ſo. And her Marriage
+with <hi>Perozes</hi> was immediately Celebrated with much
+Solemnity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
